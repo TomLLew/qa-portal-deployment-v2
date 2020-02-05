@@ -1,1 +1,0 @@
-alter table training.course_technology alter column course_id drop not null;

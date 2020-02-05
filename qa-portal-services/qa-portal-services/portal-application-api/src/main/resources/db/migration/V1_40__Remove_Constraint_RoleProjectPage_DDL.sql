@@ -1,1 +1,0 @@
-alter table training.role_project_page alter column project_page_id drop not null;
