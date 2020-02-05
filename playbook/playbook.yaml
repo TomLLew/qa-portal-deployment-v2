@@ -1,0 +1,11 @@
+---
+- hosts: localhost
+  connection: local
+  tasks:
+  - name: create .ssh directory in container
+    shell:
+     cmd: "kubectl exec jenkins mkdir -- -p /var/jenkins_home/.ssh/"
+
+  - name: copy private key into container
+    shell:
+     cmd: "kubectl cp ~/.ssh/id_rsa jenkins:/var/jenkins_home/.ssh/id_rsa"
