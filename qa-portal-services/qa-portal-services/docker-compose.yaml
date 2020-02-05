@@ -1,0 +1,38 @@
+version: '3.7'
+services:
+#  cv:
+#    container_name: cv_container
+#    build:
+#      context: .
+#      args:
+#        PROJECT: cv-api
+  cohort:
+    container_name: cohort_container
+    build:
+      context: .
+      args:
+        PROJECT: cohort-api
+  feedback:
+    container_name: feedback_container
+    build:
+      context: .
+      args:
+        PROJECT: feedback-api
+  form:
+    container_name: form_container
+    build:
+      context: .
+      args:
+        PROJECT: form-api
+#  portal-application:
+#    container_name: portal-application_container
+#    build:
+#      context: .
+#      args:
+#       PROJECT: portal-application-api
+  self-reflection:
+    container_name: self-reflection_container
+    build:
+      context: .
+      args:
+        PROJECT: self-reflection-api
