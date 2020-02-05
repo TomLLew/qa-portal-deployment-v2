@@ -1,0 +1,64 @@
+version: '3.7'
+services:
+        #  cv:
+        #    container_name: cv_container
+        #    build:
+        #      context: .
+        #      args:
+        #        PROJECT: cv-api
+        #    environment:
+        #    - POSTGRES_HOST=69.69.1.106
+        #    ports:
+        #    - "8087:8080"
+      #  cohort:
+          #    container_name: cohort_container
+    #    build:
+            #      context: .
+            #      args:
+          #        PROJECT: cohort-api
+          #    environment: 
+          #    - POSTGRES_HOST=69.69.1.106
+          #    ports:
+          #    - "8086:8080"
+          #  feedback:
+          #    container_name: feedback_container
+          #    build:
+          #      context: .
+          #      args:
+          #        PROJECT: feedback-api
+          #    environment:
+          #    - POSTGRES_HOST=69.69.1.106
+          #    ports:
+          #    - "8084:8080"
+          #  form:
+          #    container_name: form_container
+          #    build:
+          #      context: .
+          #      args:
+          #        PROJECT: form-api
+          #    environment:
+          #    - POSTGRES_HOST=69.69.1.106
+          #    ports: 
+          #    - "8085:8080"
+  portal-application:
+    container_name: portal-application_container
+    build:
+      context: .
+      args:
+        PROJECT: portal-application-api
+    environment:
+    - POSTGRES_HOST=69.69.1.106
+    ports:
+    - "8081:8081"
+
+        #  self-reflection:
+        #    container_name: self-reflection_container
+        #    build:
+        #      context: .
+        #      args:
+        #        PROJECT: self-reflection-api
+        #    environment:
+        #    - POSTGRES_HOST=69.69.1.106
+        #    ports:
+        #    - "8082:8080"
+
