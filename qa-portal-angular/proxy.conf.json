@@ -1,31 +1,31 @@
 {
   "/portal-application-api": {
-    "target": "http://69.69.1.170:8081",
+    "target": "http://3.9.134.238:8081",
     "secure": false,
     "logLevel": "debug"
   },
   "/self-reflection-api": {
-    "target": "http://69.69.1.170:8082",
+    "target": "http://3.9.134.238:8082",
     "secure": false,
     "logLevel": "debug"
   },
   "/feedback-api": {
-    "target": "http://69.69.1.170:8084",
+    "target": "http://3.9.134.238:8084",
     "secure": false,
     "logLevel": "debug"
   },
   "/form-api": {
-    "target": "http://69.69.1.170:8085",
+    "target": "http://3.9.134.238:8085",
     "secure": false,
     "logLevel": "debug"
   },
   "/cohort-api": {
-    "target": "http://69.69.1.170:8086",
+    "target": "http://3.9.134.238:8086",
     "secure": false,
     "logLevel": "debug"
   },
   "/cv-api": {
-    "target": "http://69.69.1.170:8087",
+    "target": "http://3.9.134.238:8087",
     "secure": false,
     "logLevel": "debug"
   },
