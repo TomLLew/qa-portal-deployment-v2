@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["qa-admin-src-app-qa-admin-module"],{
 
 /***/ "../../node_modules/angular-calendar/date-adapters/date-fns/index.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/angular-calendar/date-adapters/date-fns/index.js ***!
-  \**********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/angular-calendar/date-adapters/date-fns/index.js ***!
+  \****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -42,9 +42,9 @@ exports.adapterFactory = adapterFactory;
 /***/ }),
 
 /***/ "../../node_modules/angular-calendar/fesm2015/angular-calendar.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/angular-calendar/fesm2015/angular-calendar.js ***!
-  \*******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/angular-calendar/fesm2015/angular-calendar.js ***!
+  \*************************************************************************************************************************************/
 /*! exports provided: DAYS_OF_WEEK, CalendarAngularDateFormatter, CalendarCommonModule, CalendarDateFormatter, CalendarDayModule, CalendarDayViewComponent, CalendarEventTimesChangedEventType, CalendarEventTitleFormatter, CalendarModule, CalendarMomentDateFormatter, CalendarMonthModule, CalendarMonthViewComponent, CalendarNativeDateFormatter, CalendarUtils, CalendarView, CalendarWeekModule, CalendarWeekViewComponent, DateAdapter, MOMENT, collapseAnimation, getWeekViewPeriod, ɵa, ɵb, ɵc, ɵd, ɵe, ɵf, ɵg, ɵh, ɵi, ɵj, ɵk, ɵl, ɵm, ɵn, ɵo, ɵp, ɵq, ɵr */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4546,9 +4546,9 @@ CalendarModule.decorators = [
 /***/ }),
 
 /***/ "../../node_modules/angular-draggable-droppable/fesm2015/angular-draggable-droppable.js":
-/*!*****************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/angular-draggable-droppable/fesm2015/angular-draggable-droppable.js ***!
-  \*****************************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/angular-draggable-droppable/fesm2015/angular-draggable-droppable.js ***!
+  \***********************************************************************************************************************************************************/
 /*! exports provided: DragAndDropModule, ɵc, ɵd, ɵb, ɵa */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5688,9 +5688,9 @@ DragAndDropModule.decorators = [
 /***/ }),
 
 /***/ "../../node_modules/angular-resizable-element/fesm2015/angular-resizable-element.js":
-/*!*************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/angular-resizable-element/fesm2015/angular-resizable-element.js ***!
-  \*************************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/angular-resizable-element/fesm2015/angular-resizable-element.js ***!
+  \*******************************************************************************************************************************************************/
 /*! exports provided: ResizableDirective, ResizeHandleDirective, ResizableModule */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6593,9 +6593,9 @@ ResizableModule.decorators = [
 /***/ }),
 
 /***/ "../../node_modules/animation-frame-polyfill/lib/animation-frame-polyfill.cjs.js":
-/*!**********************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/animation-frame-polyfill/lib/animation-frame-polyfill.cjs.js ***!
-  \**********************************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/animation-frame-polyfill/lib/animation-frame-polyfill.cjs.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6653,9 +6653,9 @@ var cancelAnimationFrame = exports.cancelAnimationFrame = function () {
 /***/ }),
 
 /***/ "../../node_modules/array-from/index.js":
-/*!*****************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/array-from/index.js ***!
-  \*****************************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/array-from/index.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6668,9 +6668,9 @@ module.exports = (typeof Array.from === 'function' ?
 /***/ }),
 
 /***/ "../../node_modules/array-from/polyfill.js":
-/*!********************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/array-from/polyfill.js ***!
-  \********************************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/array-from/polyfill.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -6891,9 +6891,9 @@ module.exports = (function() {
 /***/ }),
 
 /***/ "../../node_modules/calendar-utils/calendar-utils.js":
-/*!******************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/calendar-utils/calendar-utils.js ***!
-  \******************************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/calendar-utils/calendar-utils.js ***!
+  \************************************************************************************************************************/
 /*! exports provided: DAYS_OF_WEEK, SECONDS_IN_DAY, getWeekViewEventOffset, getEventsInPeriod, getWeekViewHeader, getDifferenceInDaysWithExclusions, getWeekView, getMonthView, getDayView, getDayViewHourGrid, EventValidationErrorMessage, validateEvents */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7556,9 +7556,9 @@ function validateEvents(events, log) {
 /***/ }),
 
 /***/ "../../node_modules/calendar-utils/date-adapters/date-fns/index.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/calendar-utils/date-adapters/date-fns/index.js ***!
-  \********************************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/calendar-utils/date-adapters/date-fns/index.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7623,9 +7623,9 @@ exports.adapterFactory = adapterFactory;
 /***/ }),
 
 /***/ "../../node_modules/create-point-cb/dist/bundle.js":
-/*!****************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/create-point-cb/dist/bundle.js ***!
-  \****************************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/create-point-cb/dist/bundle.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7727,9 +7727,9 @@ module.exports = createPointCB;
 /***/ }),
 
 /***/ "../../node_modules/date-fns/_lib/getTimezoneOffsetInMilliseconds/index.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/_lib/getTimezoneOffsetInMilliseconds/index.js ***!
-  \****************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/_lib/getTimezoneOffsetInMilliseconds/index.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -7759,9 +7759,9 @@ module.exports = function getTimezoneOffsetInMilliseconds (dirtyDate) {
 /***/ }),
 
 /***/ "../../node_modules/date-fns/add_days/index.js":
-/*!************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/add_days/index.js ***!
-  \************************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/add_days/index.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7796,9 +7796,9 @@ module.exports = addDays
 /***/ }),
 
 /***/ "../../node_modules/date-fns/add_hours/index.js":
-/*!*************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/add_hours/index.js ***!
-  \*************************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/add_hours/index.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7833,9 +7833,9 @@ module.exports = addHours
 /***/ }),
 
 /***/ "../../node_modules/date-fns/add_milliseconds/index.js":
-/*!********************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/add_milliseconds/index.js ***!
-  \********************************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/add_milliseconds/index.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7869,9 +7869,9 @@ module.exports = addMilliseconds
 /***/ }),
 
 /***/ "../../node_modules/date-fns/add_minutes/index.js":
-/*!***************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/add_minutes/index.js ***!
-  \***************************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/add_minutes/index.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7906,9 +7906,9 @@ module.exports = addMinutes
 /***/ }),
 
 /***/ "../../node_modules/date-fns/add_months/index.js":
-/*!**************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/add_months/index.js ***!
-  \**************************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/add_months/index.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7951,9 +7951,9 @@ module.exports = addMonths
 /***/ }),
 
 /***/ "../../node_modules/date-fns/add_seconds/index.js":
-/*!***************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/add_seconds/index.js ***!
-  \***************************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/add_seconds/index.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7986,9 +7986,9 @@ module.exports = addSeconds
 /***/ }),
 
 /***/ "../../node_modules/date-fns/add_weeks/index.js":
-/*!*************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/add_weeks/index.js ***!
-  \*************************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/add_weeks/index.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8022,9 +8022,9 @@ module.exports = addWeeks
 /***/ }),
 
 /***/ "../../node_modules/date-fns/compare_asc/index.js":
-/*!***************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/compare_asc/index.js ***!
-  \***************************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/compare_asc/index.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8084,9 +8084,9 @@ module.exports = compareAsc
 /***/ }),
 
 /***/ "../../node_modules/date-fns/difference_in_calendar_days/index.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/difference_in_calendar_days/index.js ***!
-  \*******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/difference_in_calendar_days/index.js ***!
+  \*************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8136,9 +8136,9 @@ module.exports = differenceInCalendarDays
 /***/ }),
 
 /***/ "../../node_modules/date-fns/difference_in_days/index.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/difference_in_days/index.js ***!
-  \**********************************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/difference_in_days/index.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8186,9 +8186,9 @@ module.exports = differenceInDays
 /***/ }),
 
 /***/ "../../node_modules/date-fns/difference_in_milliseconds/index.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/difference_in_milliseconds/index.js ***!
-  \******************************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/difference_in_milliseconds/index.js ***!
+  \************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8226,9 +8226,9 @@ module.exports = differenceInMilliseconds
 /***/ }),
 
 /***/ "../../node_modules/date-fns/difference_in_minutes/index.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/difference_in_minutes/index.js ***!
-  \*************************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/difference_in_minutes/index.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8266,9 +8266,9 @@ module.exports = differenceInMinutes
 /***/ }),
 
 /***/ "../../node_modules/date-fns/difference_in_seconds/index.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/difference_in_seconds/index.js ***!
-  \*************************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/difference_in_seconds/index.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8305,9 +8305,9 @@ module.exports = differenceInSeconds
 /***/ }),
 
 /***/ "../../node_modules/date-fns/end_of_day/index.js":
-/*!**************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/end_of_day/index.js ***!
-  \**************************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/end_of_day/index.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8341,9 +8341,9 @@ module.exports = endOfDay
 /***/ }),
 
 /***/ "../../node_modules/date-fns/end_of_month/index.js":
-/*!****************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/end_of_month/index.js ***!
-  \****************************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/end_of_month/index.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8379,9 +8379,9 @@ module.exports = endOfMonth
 /***/ }),
 
 /***/ "../../node_modules/date-fns/end_of_week/index.js":
-/*!***************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/end_of_week/index.js ***!
-  \***************************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/end_of_week/index.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8428,9 +8428,9 @@ module.exports = endOfWeek
 /***/ }),
 
 /***/ "../../node_modules/date-fns/get_date/index.js":
-/*!************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/get_date/index.js ***!
-  \************************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/get_date/index.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8463,9 +8463,9 @@ module.exports = getDate
 /***/ }),
 
 /***/ "../../node_modules/date-fns/get_day/index.js":
-/*!***********************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/get_day/index.js ***!
-  \***********************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/get_day/index.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8498,9 +8498,9 @@ module.exports = getDay
 /***/ }),
 
 /***/ "../../node_modules/date-fns/get_days_in_month/index.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/get_days_in_month/index.js ***!
-  \*********************************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/get_days_in_month/index.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8537,9 +8537,9 @@ module.exports = getDaysInMonth
 /***/ }),
 
 /***/ "../../node_modules/date-fns/get_hours/index.js":
-/*!*************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/get_hours/index.js ***!
-  \*************************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/get_hours/index.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8572,9 +8572,9 @@ module.exports = getHours
 /***/ }),
 
 /***/ "../../node_modules/date-fns/get_iso_week/index.js":
-/*!****************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/get_iso_week/index.js ***!
-  \****************************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/get_iso_week/index.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8617,9 +8617,9 @@ module.exports = getISOWeek
 /***/ }),
 
 /***/ "../../node_modules/date-fns/get_iso_year/index.js":
-/*!****************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/get_iso_year/index.js ***!
-  \****************************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/get_iso_year/index.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8673,9 +8673,9 @@ module.exports = getISOYear
 /***/ }),
 
 /***/ "../../node_modules/date-fns/get_minutes/index.js":
-/*!***************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/get_minutes/index.js ***!
-  \***************************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/get_minutes/index.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8708,9 +8708,9 @@ module.exports = getMinutes
 /***/ }),
 
 /***/ "../../node_modules/date-fns/get_month/index.js":
-/*!*************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/get_month/index.js ***!
-  \*************************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/get_month/index.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8743,9 +8743,9 @@ module.exports = getMonth
 /***/ }),
 
 /***/ "../../node_modules/date-fns/get_year/index.js":
-/*!************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/get_year/index.js ***!
-  \************************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/get_year/index.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8778,9 +8778,9 @@ module.exports = getYear
 /***/ }),
 
 /***/ "../../node_modules/date-fns/is_date/index.js":
-/*!***********************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/is_date/index.js ***!
-  \***********************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/is_date/index.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8809,9 +8809,9 @@ module.exports = isDate
 /***/ }),
 
 /***/ "../../node_modules/date-fns/is_same_day/index.js":
-/*!***************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/is_same_day/index.js ***!
-  \***************************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/is_same_day/index.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8849,9 +8849,9 @@ module.exports = isSameDay
 /***/ }),
 
 /***/ "../../node_modules/date-fns/is_same_month/index.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/is_same_month/index.js ***!
-  \*****************************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/is_same_month/index.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8889,9 +8889,9 @@ module.exports = isSameMonth
 /***/ }),
 
 /***/ "../../node_modules/date-fns/is_same_second/index.js":
-/*!******************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/is_same_second/index.js ***!
-  \******************************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/is_same_second/index.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8930,9 +8930,9 @@ module.exports = isSameSecond
 /***/ }),
 
 /***/ "../../node_modules/date-fns/max/index.js":
-/*!*******************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/max/index.js ***!
-  \*******************************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/max/index.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8973,9 +8973,9 @@ module.exports = max
 /***/ }),
 
 /***/ "../../node_modules/date-fns/parse/index.js":
-/*!*********************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/parse/index.js ***!
-  \*********************************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/parse/index.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9316,9 +9316,9 @@ module.exports = parse
 /***/ }),
 
 /***/ "../../node_modules/date-fns/set_date/index.js":
-/*!************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/set_date/index.js ***!
-  \************************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/set_date/index.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9353,9 +9353,9 @@ module.exports = setDate
 /***/ }),
 
 /***/ "../../node_modules/date-fns/set_hours/index.js":
-/*!*************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/set_hours/index.js ***!
-  \*************************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/set_hours/index.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9390,9 +9390,9 @@ module.exports = setHours
 /***/ }),
 
 /***/ "../../node_modules/date-fns/set_minutes/index.js":
-/*!***************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/set_minutes/index.js ***!
-  \***************************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/set_minutes/index.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9427,9 +9427,9 @@ module.exports = setMinutes
 /***/ }),
 
 /***/ "../../node_modules/date-fns/set_month/index.js":
-/*!*************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/set_month/index.js ***!
-  \*************************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/set_month/index.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9474,9 +9474,9 @@ module.exports = setMonth
 /***/ }),
 
 /***/ "../../node_modules/date-fns/set_year/index.js":
-/*!************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/set_year/index.js ***!
-  \************************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/set_year/index.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9511,9 +9511,9 @@ module.exports = setYear
 /***/ }),
 
 /***/ "../../node_modules/date-fns/start_of_day/index.js":
-/*!****************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/start_of_day/index.js ***!
-  \****************************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/start_of_day/index.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9547,9 +9547,9 @@ module.exports = startOfDay
 /***/ }),
 
 /***/ "../../node_modules/date-fns/start_of_iso_week/index.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/start_of_iso_week/index.js ***!
-  \*********************************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/start_of_iso_week/index.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9583,9 +9583,9 @@ module.exports = startOfISOWeek
 /***/ }),
 
 /***/ "../../node_modules/date-fns/start_of_iso_year/index.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/start_of_iso_year/index.js ***!
-  \*********************************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/start_of_iso_year/index.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9626,9 +9626,9 @@ module.exports = startOfISOYear
 /***/ }),
 
 /***/ "../../node_modules/date-fns/start_of_minute/index.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/start_of_minute/index.js ***!
-  \*******************************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/start_of_minute/index.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9662,9 +9662,9 @@ module.exports = startOfMinute
 /***/ }),
 
 /***/ "../../node_modules/date-fns/start_of_month/index.js":
-/*!******************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/start_of_month/index.js ***!
-  \******************************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/start_of_month/index.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9699,9 +9699,9 @@ module.exports = startOfMonth
 /***/ }),
 
 /***/ "../../node_modules/date-fns/start_of_second/index.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/start_of_second/index.js ***!
-  \*******************************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/start_of_second/index.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9735,9 +9735,9 @@ module.exports = startOfSecond
 /***/ }),
 
 /***/ "../../node_modules/date-fns/start_of_week/index.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/start_of_week/index.js ***!
-  \*****************************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/start_of_week/index.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9784,9 +9784,9 @@ module.exports = startOfWeek
 /***/ }),
 
 /***/ "../../node_modules/date-fns/sub_days/index.js":
-/*!************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/sub_days/index.js ***!
-  \************************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/sub_days/index.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9819,9 +9819,9 @@ module.exports = subDays
 /***/ }),
 
 /***/ "../../node_modules/date-fns/sub_months/index.js":
-/*!**************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/sub_months/index.js ***!
-  \**************************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/sub_months/index.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9854,9 +9854,9 @@ module.exports = subMonths
 /***/ }),
 
 /***/ "../../node_modules/date-fns/sub_weeks/index.js":
-/*!*************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/date-fns/sub_weeks/index.js ***!
-  \*************************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/date-fns/sub_weeks/index.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9889,9 +9889,9 @@ module.exports = subWeeks
 /***/ }),
 
 /***/ "../../node_modules/dom-autoscroller/dist/bundle.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/dom-autoscroller/dist/bundle.js ***!
-  \*****************************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/dom-autoscroller/dist/bundle.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10248,9 +10248,9 @@ module.exports = AutoScrollerFactory;
 /***/ }),
 
 /***/ "../../node_modules/dom-mousemove-dispatcher/dist/bundle.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/dom-mousemove-dispatcher/dist/bundle.js ***!
-  \*************************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/dom-mousemove-dispatcher/dist/bundle.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10404,9 +10404,9 @@ module.exports = createDispatcher;
 /***/ }),
 
 /***/ "../../node_modules/dom-plane/dist/bundle.js":
-/*!**********************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/dom-plane/dist/bundle.js ***!
-  \**********************************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/dom-plane/dist/bundle.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10471,9 +10471,9 @@ exports.pointInside = pointInside;
 /***/ }),
 
 /***/ "../../node_modules/dom-set/dist/bundle.js":
-/*!********************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/dom-set/dist/bundle.js ***!
-  \********************************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/dom-set/dist/bundle.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10634,9 +10634,9 @@ exports.selectAll = selectAll;
 /***/ }),
 
 /***/ "../../node_modules/is-array/index.js":
-/*!***************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/is-array/index.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/is-array/index.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -10678,9 +10678,9 @@ module.exports = isArray || function (val) {
 /***/ }),
 
 /***/ "../../node_modules/iselement/module/index.js":
-/*!***********************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/iselement/module/index.js ***!
-  \***********************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/iselement/module/index.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10701,9 +10701,9 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
 /***/ }),
 
 /***/ "../../node_modules/positioning/dist/entry.js":
-/*!***********************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/positioning/dist/entry.js ***!
-  \***********************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/positioning/dist/entry.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: positionElements */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10718,9 +10718,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/positioning/dist/positioning.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/positioning/dist/positioning.js ***!
-  \*****************************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/positioning/dist/positioning.js ***!
+  \***********************************************************************************************************************/
 /*! exports provided: Positioning, positionElements */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10947,9 +10947,9 @@ function positionElements(hostElement, targetElement, placement, appendToBody, b
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/app-project-detail/app-project-detail.component.html":
-/*!*********************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/app-project-detail/app-project-detail.component.html ***!
-  \*********************************************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/app-project-detail/app-project-detail.component.html ***!
+  \***************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -10958,9 +10958,9 @@ module.exports = "<h1>Project</h1>\n\n\n<mat-card class=\"mb-1\">\n  <mat-card-h
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/app-project-detail/delete-page-confirm-dialog/delete-page-confirm-dialog.component.html":
-/*!********************************************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/app-project-detail/delete-page-confirm-dialog/delete-page-confirm-dialog.component.html ***!
-  \********************************************************************************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/app-project-detail/delete-page-confirm-dialog/delete-page-confirm-dialog.component.html ***!
+  \**************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -10969,9 +10969,9 @@ module.exports = "<h1 mat-dialog-title>Delete Page?</h1>\n<div mat-dialog-conten
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/app-project-management/app-project-management.component.html":
-/*!*****************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/app-project-management/app-project-management.component.html ***!
-  \*****************************************************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/app-project-management/app-project-management.component.html ***!
+  \***********************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -10980,9 +10980,9 @@ module.exports = "<h1>\n  Projects\n  <button mat-icon-button style=\"float: rig
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/app-project-management/new-project-dialog/new-project-dialog.component.html":
-/*!********************************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/app-project-management/new-project-dialog/new-project-dialog.component.html ***!
-  \********************************************************************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/app-project-management/new-project-dialog/new-project-dialog.component.html ***!
+  \**************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -10991,9 +10991,9 @@ module.exports = "<h1 mat-dialog-title>Add New Project</h1>\n<form [formGroup]=\
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/application-detail/application-detail.component.html":
-/*!*********************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/application-detail/application-detail.component.html ***!
-  \*********************************************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/application-detail/application-detail.component.html ***!
+  \***************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11002,9 +11002,9 @@ module.exports = "<h1>Application</h1>\n\n<mat-card class=\"mb-1\">\n    <mat-ca
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/application-management/application-management.component.html":
-/*!*****************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/application-management/application-management.component.html ***!
-  \*****************************************************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/application-management/application-management.component.html ***!
+  \***********************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11013,9 +11013,9 @@ module.exports = "<h1>\n    Applications\n    <button mat-icon-button style=\"fl
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/application-management/new-app-dialog/new-app-dialog.component.html":
-/*!************************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/application-management/new-app-dialog/new-app-dialog.component.html ***!
-  \************************************************************************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/application-management/new-app-dialog/new-app-dialog.component.html ***!
+  \******************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11024,9 +11024,9 @@ module.exports = "<h1 mat-dialog-title>Add New Application</h1>\n<form [formGrou
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/cohort-detail/add-course-dialog/add-course-dialog.component.html":
-/*!*********************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/cohort-detail/add-course-dialog/add-course-dialog.component.html ***!
-  \*********************************************************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/cohort-detail/add-course-dialog/add-course-dialog.component.html ***!
+  \***************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11035,9 +11035,9 @@ module.exports = "<h1 mat-dialog-title>Add Course</h1>\n<mat-dialog-content>\n  
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/cohort-detail/cohort-detail.component.html":
-/*!***********************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/cohort-detail/cohort-detail.component.html ***!
-  \***********************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/cohort-detail/cohort-detail.component.html ***!
+  \*****************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11046,9 +11046,9 @@ module.exports = "<h1>Cohort</h1>\n\n<div *ngIf=\"!isLoading\">\n  <mat-card cla
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/cohort-detail/edit-course-dialog/edit-course-dialog.component.html":
-/*!***********************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/cohort-detail/edit-course-dialog/edit-course-dialog.component.html ***!
-  \***********************************************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/cohort-detail/edit-course-dialog/edit-course-dialog.component.html ***!
+  \*****************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11057,9 +11057,9 @@ module.exports = "<h1 mat-dialog-title>Edit Course</h1>\n<mat-dialog-content>\n 
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/cohort-management/cohort-management.component.html":
-/*!*******************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/cohort-management/cohort-management.component.html ***!
-  \*******************************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/cohort-management/cohort-management.component.html ***!
+  \*************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11068,9 +11068,9 @@ module.exports = "<h1>\n    Cohorts\n    <button mat-icon-button style=\"float: 
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/cohort-management/new-cohort-dialog/new-cohort-dialog.component.html":
-/*!*************************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/cohort-management/new-cohort-dialog/new-cohort-dialog.component.html ***!
-  \*************************************************************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/cohort-management/new-cohort-dialog/new-cohort-dialog.component.html ***!
+  \*******************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11079,9 +11079,9 @@ module.exports = "<h1 mat-dialog-title>Add New Cohort</h1>\n<form [formGroup]=\"
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/course-detail/course-detail.component.html":
-/*!***********************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/course-detail/course-detail.component.html ***!
-  \***********************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/course-detail/course-detail.component.html ***!
+  \*****************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11090,9 +11090,9 @@ module.exports = "<h1>Course</h1>\n\n\n<mat-card>\n  <mat-card-header>\n    <mat
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/course-management/course-management.component.html":
-/*!*******************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/course-management/course-management.component.html ***!
-  \*******************************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/course-management/course-management.component.html ***!
+  \*************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11101,9 +11101,9 @@ module.exports = "<h1>\n  Courses\n  <button mat-icon-button style=\"float: righ
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/course-management/new-course-dialog/new-course-dialog.component.html":
-/*!*************************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/course-management/new-course-dialog/new-course-dialog.component.html ***!
-  \*************************************************************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/course-management/new-course-dialog/new-course-dialog.component.html ***!
+  \*******************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11112,9 +11112,9 @@ module.exports = "<h1 mat-dialog-title>Add New Course</h1>\n<form [formGroup]=\"
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/form-detail/form-detail.component.html":
-/*!*******************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/form-detail/form-detail.component.html ***!
-  \*******************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/form-detail/form-detail.component.html ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11123,9 +11123,9 @@ module.exports = "<h1>Form</h1>\n\n\n<mat-card class=\"mb-1\">\n  <mat-card-head
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/form-management/form-management.component.html":
-/*!***************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/form-management/form-management.component.html ***!
-  \***************************************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/form-management/form-management.component.html ***!
+  \*********************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11134,9 +11134,9 @@ module.exports = "<h1>\n  Forms\n  <button mat-icon-button style=\"float: right\
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/form-management/new-form-dialog/new-form-dialog.component.html":
-/*!*******************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/form-management/new-form-dialog/new-form-dialog.component.html ***!
-  \*******************************************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/form-management/new-form-dialog/new-form-dialog.component.html ***!
+  \*************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11145,9 +11145,9 @@ module.exports = "<h1 mat-dialog-title>Add New Form</h1>\n<form [formGroup]=\"fo
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/location-detail/location-detail.component.html":
-/*!***************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/location-detail/location-detail.component.html ***!
-  \***************************************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/location-detail/location-detail.component.html ***!
+  \*********************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11156,9 +11156,9 @@ module.exports = "<h1>Location</h1>\n\n\n<mat-card>\n  <mat-card-header>\n    <m
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/location-management/location-management.component.html":
-/*!***********************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/location-management/location-management.component.html ***!
-  \***********************************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/location-management/location-management.component.html ***!
+  \*****************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11167,9 +11167,9 @@ module.exports = "<h1>\n  Locations\n  <button mat-icon-button style=\"float: ri
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/location-management/new-location-dialog/new-location-dialog.component.html":
-/*!*******************************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/location-management/new-location-dialog/new-location-dialog.component.html ***!
-  \*******************************************************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/location-management/new-location-dialog/new-location-dialog.component.html ***!
+  \*************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11178,9 +11178,9 @@ module.exports = "<h1 mat-dialog-title>Add New Location</h1>\n<form [formGroup]=
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/role-detail/role-detail.component.html":
-/*!*******************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/role-detail/role-detail.component.html ***!
-  \*******************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/role-detail/role-detail.component.html ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11189,9 +11189,9 @@ module.exports = "<h1>Role</h1>\n\n\n<mat-card>\n  <mat-card-header>\n    <mat-c
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/role-management/new-role-dialog/new-role-dialog.component.html":
-/*!*******************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/role-management/new-role-dialog/new-role-dialog.component.html ***!
-  \*******************************************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/role-management/new-role-dialog/new-role-dialog.component.html ***!
+  \*************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11200,9 +11200,9 @@ module.exports = "<h1 mat-dialog-title>Add New Role</h1>\n<form [formGroup]=\"ro
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/role-management/role-management.component.html":
-/*!***************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/role-management/role-management.component.html ***!
-  \***************************************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/role-management/role-management.component.html ***!
+  \*********************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11211,9 +11211,9 @@ module.exports = "<h1>\n  Roles\n  <button mat-icon-button style=\"float: right\
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/technology-detail/technology-detail.component.html":
-/*!*******************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/technology-detail/technology-detail.component.html ***!
-  \*******************************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/technology-detail/technology-detail.component.html ***!
+  \*************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11222,9 +11222,9 @@ module.exports = "<h1>Category</h1>\n\n\n<mat-card>\n  <mat-card-header>\n    <m
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/technology-management/new-category-dialog/new-category-dialog.component.html":
-/*!*********************************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/technology-management/new-category-dialog/new-category-dialog.component.html ***!
-  \*********************************************************************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/technology-management/new-category-dialog/new-category-dialog.component.html ***!
+  \***************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11233,9 +11233,9 @@ module.exports = "<h1 mat-dialog-title>Add New Category</h1>\n<form [formGroup]=
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/technology-management/technology-management.component.html":
-/*!***************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/technology-management/technology-management.component.html ***!
-  \***************************************************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/technology-management/technology-management.component.html ***!
+  \*********************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11244,9 +11244,9 @@ module.exports = "<h1>\n  Technology Categories\n  <button mat-icon-button style
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/user-detail/user-detail.component.html":
-/*!*******************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/user-detail/user-detail.component.html ***!
-  \*******************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/user-detail/user-detail.component.html ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11255,9 +11255,9 @@ module.exports = "<h1>\n  User\n</h1>\n\n<mat-card class=\"mb-1\">\n  <mat-card-
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/user-management-console/add-user-dialog/add-user-dialog.component.html":
-/*!***************************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/user-management-console/add-user-dialog/add-user-dialog.component.html ***!
-  \***************************************************************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/user-management-console/add-user-dialog/add-user-dialog.component.html ***!
+  \*********************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11266,9 +11266,9 @@ module.exports = "<h1 mat-dialog-title>Add A User</h1>\n<form [formGroup]=\"user
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/user-management-console/delete-user-dialog/delete-user-dialog.component.html":
-/*!*********************************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/user-management-console/delete-user-dialog/delete-user-dialog.component.html ***!
-  \*********************************************************************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/user-management-console/delete-user-dialog/delete-user-dialog.component.html ***!
+  \***************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11277,9 +11277,9 @@ module.exports = "<h1 mat-dialog-title>Delete {{numberOfUsers > 1 ? numberOfUser
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/user-management-console/update-user-cohort-dialog/update-user-cohort-dialog.component.html":
-/*!***********************************************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/user-management-console/update-user-cohort-dialog/update-user-cohort-dialog.component.html ***!
-  \***********************************************************************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/user-management-console/update-user-cohort-dialog/update-user-cohort-dialog.component.html ***!
+  \*****************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11288,9 +11288,9 @@ module.exports = "<h1 mat-dialog-title>Add to Cohort</h1>\n<div mat-dialog-conte
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/user-management-console/update-user-role-dialog/update-user-role-dialog.component.html":
-/*!*******************************************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/user-management-console/update-user-role-dialog/update-user-role-dialog.component.html ***!
-  \*******************************************************************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/user-management-console/update-user-role-dialog/update-user-role-dialog.component.html ***!
+  \*************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11299,9 +11299,9 @@ module.exports = "<h1 mat-dialog-title>Add Role</h1>\n<div mat-dialog-content>\n
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-admin/src/app/user-management-console/user-management.component.html":
-/*!***********************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/user-management-console/user-management.component.html ***!
-  \***********************************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-admin/src/app/user-management-console/user-management.component.html ***!
+  \*****************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11310,9 +11310,9 @@ module.exports = "<h1>\n  Users\n  <button mat-icon-button style=\"float: right\
 /***/ }),
 
 /***/ "../../node_modules/type-func/dist/bundle.js":
-/*!**********************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/type-func/dist/bundle.js ***!
-  \**********************************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/type-func/dist/bundle.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

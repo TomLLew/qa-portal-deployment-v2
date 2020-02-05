@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["default~qa-admin-src-app-qa-admin-module~self-reflection-src-app-qa-self-reflection-module"],{
 
 /***/ "../../node_modules/randomcolor/randomColor.js":
-/*!************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/randomcolor/randomColor.js ***!
-  \************************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/randomcolor/randomColor.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

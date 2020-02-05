@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["self-reflection-src-app-qa-self-reflection-module"],{
 
 /***/ "../../node_modules/chart.js/dist/Chart.js":
-/*!********************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/chart.js/dist/Chart.js ***!
-  \********************************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/chart.js/dist/Chart.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16162,9 +16162,9 @@ return src;
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../self-reflection/src/app/_common/templates/trainee-reflection.component.html":
-/*!***************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/_common/templates/trainee-reflection.component.html ***!
-  \***************************************************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/_common/templates/trainee-reflection.component.html ***!
+  \*********************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -16173,9 +16173,9 @@ module.exports = "<div class=\"qa-app-title\">\n  Trainee Self Reflection Form\n
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../self-reflection/src/app/cohort-summary/cohort-chart/cohort-chart.component.html":
-/*!*******************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/cohort-summary/cohort-chart/cohort-chart.component.html ***!
-  \*******************************************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/cohort-summary/cohort-chart/cohort-chart.component.html ***!
+  \*************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -16184,9 +16184,9 @@ module.exports = "<div class=\"mat-elevation-z8\">\n  <mat-card>\n    <mat-card-
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../self-reflection/src/app/cohort-summary/cohort-summary.component.html":
-/*!********************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/cohort-summary/cohort-summary.component.html ***!
-  \********************************************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/cohort-summary/cohort-summary.component.html ***!
+  \**************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -16195,9 +16195,9 @@ module.exports = "<div class=\"qa-app-title\">\r\n  Cohort Average Ratings Summa
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../self-reflection/src/app/cohort-summary/cohort-table/cohort-table.component.html":
-/*!*******************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/cohort-summary/cohort-table/cohort-table.component.html ***!
-  \*******************************************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/cohort-summary/cohort-table/cohort-table.component.html ***!
+  \*************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -16206,9 +16206,9 @@ module.exports = "<div class=\"mat-elevation-z8\">\n\n  <app-data-table #dataTab
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../self-reflection/src/app/cohort-trainees/cohort-trainees.component.html":
-/*!**********************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/cohort-trainees/cohort-trainees.component.html ***!
-  \**********************************************************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/cohort-trainees/cohort-trainees.component.html ***!
+  \****************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -16217,9 +16217,9 @@ module.exports = "<div class=\"qa-app-title\">\n  Trainer - Cohort Trainees\n</d
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../self-reflection/src/app/self-reflection-history/self-reflection-history.component.html":
-/*!**************************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/self-reflection-history/self-reflection-history.component.html ***!
-  \**************************************************************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/self-reflection-history/self-reflection-history.component.html ***!
+  \********************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -16228,9 +16228,9 @@ module.exports = "<div class=\"qa-app-title\">\n  Trainee Self Reflection Histor
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../self-reflection/src/app/trainer-reflection/trainer-reflection.component.html":
-/*!****************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/trainer-reflection/trainer-reflection.component.html ***!
-  \****************************************************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../self-reflection/src/app/trainer-reflection/trainer-reflection.component.html ***!
+  \**********************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 

@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["qa-cv-src-app-qa-cv-module"],{
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-cv/src/app/cv-card-base/cv-card-base.component.html":
-/*!******************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-card-base/cv-card-base.component.html ***!
-  \******************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-card-base/cv-card-base.component.html ***!
+  \************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -12,9 +12,9 @@ module.exports = "<mat-card class=\"card-base mat-elevation-z2\">\n  <mat-drawer
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-cv/src/app/cv-hobbies/cv-hobbies.component.html":
-/*!**************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-hobbies/cv-hobbies.component.html ***!
-  \**************************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-hobbies/cv-hobbies.component.html ***!
+  \********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -23,9 +23,9 @@ module.exports = "<mat-form-field appearance=\"outline\" class=\"example-full-wi
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-cv/src/app/cv-profile/cv-profile.component.html":
-/*!**************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-profile/cv-profile.component.html ***!
-  \**************************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-profile/cv-profile.component.html ***!
+  \********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -34,9 +34,9 @@ module.exports = "<mat-form-field appearance=\"outline\" class=\"example-full-wi
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-cv/src/app/cv-qualis/cv-qualification.component.html":
-/*!*******************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-qualis/cv-qualification.component.html ***!
-  \*******************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-qualis/cv-qualification.component.html ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -45,9 +45,9 @@ module.exports = "<table mat-table class=\"qa-table w-100\" [dataSource]=\"quali
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-cv/src/app/cv-search/cv-search.component.html":
-/*!************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-search/cv-search.component.html ***!
-  \************************************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-search/cv-search.component.html ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -56,9 +56,9 @@ module.exports = "<div class=\"qa-app-title\">\n  Administrator - CV Search\n</d
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-cv/src/app/cv-skills/cv-skills.component.html":
-/*!************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-skills/cv-skills.component.html ***!
-  \************************************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-skills/cv-skills.component.html ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -67,9 +67,9 @@ module.exports = "<mat-form-field class=\"skills-chip-list\" *ngFor=\"let skillC
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-cv/src/app/cv-work-exp/cv-work-exp.component.html":
-/*!****************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-work-exp/cv-work-exp.component.html ***!
-  \****************************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/cv-work-exp/cv-work-exp.component.html ***!
+  \**********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -78,9 +78,9 @@ module.exports = "<table mat-table class=\"qa-table w-100\" [dataSource]=\"workE
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-cv/src/app/view-cv/submit-confirm-dialog/submit-confirm-dialog.component.html":
-/*!********************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/view-cv/submit-confirm-dialog/submit-confirm-dialog.component.html ***!
-  \********************************************************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/view-cv/submit-confirm-dialog/submit-confirm-dialog.component.html ***!
+  \**************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -89,9 +89,9 @@ module.exports = "<h1 mat-dialog-title>Are you Sure?</h1>\n<div mat-dialog-conte
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-cv/src/app/view-cv/view-cv.component.html":
-/*!********************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/view-cv/view-cv.component.html ***!
-  \********************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-cv/src/app/view-cv/view-cv.component.html ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1431,7 +1431,7 @@ var SubmitConfirmDialogComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".cv-content-wrapper > section {\n  margin-bottom: 1rem;\n}\n.cv-content-wrapper > section:last-child {\n  margin-bottom: 0;\n}\n.button-row {\n  width: 100%;\n  display: flex;\n  flex-direction: row;\n  justify-content: left;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3FhLWFkbWluL0RvY3VtZW50cy9xYS1wb3J0YWwtZGVwbG95bWVudC9mcm9udGVuZC9xYS1wb3J0YWwtYW5ndWxhci9wcm9qZWN0cy9xYS1jdi9zcmMvYXBwL3ZpZXctY3Yvdmlldy1jdi5jb21wb25lbnQuc2NzcyIsInByb2plY3RzL3FhLWN2L3NyYy9hcHAvdmlldy1jdi92aWV3LWN2LmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNJO0VBQ0ksbUJBQUE7QUNBUjtBREdJO0VBQ0ksZ0JBQUE7QUNEUjtBREtBO0VBQ0UsV0FBQTtFQUNBLGFBQUE7RUFDQSxtQkFBQTtFQUNBLHFCQUFBO0FDRkYiLCJmaWxlIjoicHJvamVjdHMvcWEtY3Yvc3JjL2FwcC92aWV3LWN2L3ZpZXctY3YuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuY3YtY29udGVudC13cmFwcGVyIHtcbiAgICA+c2VjdGlvbiB7XG4gICAgICAgIG1hcmdpbi1ib3R0b206IDFyZW07XG4gICAgfVxuXG4gICAgPnNlY3Rpb246bGFzdC1jaGlsZCB7XG4gICAgICAgIG1hcmdpbi1ib3R0b206IDA7XG4gICAgfVxufVxuXG4uYnV0dG9uLXJvdyB7XG4gIHdpZHRoOiAxMDAlO1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LWRpcmVjdGlvbjogcm93O1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGxlZnQ7XG59XG4iLCIuY3YtY29udGVudC13cmFwcGVyID4gc2VjdGlvbiB7XG4gIG1hcmdpbi1ib3R0b206IDFyZW07XG59XG4uY3YtY29udGVudC13cmFwcGVyID4gc2VjdGlvbjpsYXN0LWNoaWxkIHtcbiAgbWFyZ2luLWJvdHRvbTogMDtcbn1cblxuLmJ1dHRvbi1yb3cge1xuICB3aWR0aDogMTAwJTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC1kaXJlY3Rpb246IHJvdztcbiAganVzdGlmeS1jb250ZW50OiBsZWZ0O1xufSJdfQ== */"
+module.exports = ".cv-content-wrapper > section {\n  margin-bottom: 1rem;\n}\n.cv-content-wrapper > section:last-child {\n  margin-bottom: 0;\n}\n.button-row {\n  width: 100%;\n  display: flex;\n  flex-direction: row;\n  justify-content: left;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3FhLWFkbWluL0RvY3VtZW50cy9xYS1wb3J0YWwtZGVwbG95bWVudC12Mi9xYS1wb3J0YWwtYW5ndWxhci9wcm9qZWN0cy9xYS1jdi9zcmMvYXBwL3ZpZXctY3Yvdmlldy1jdi5jb21wb25lbnQuc2NzcyIsInByb2plY3RzL3FhLWN2L3NyYy9hcHAvdmlldy1jdi92aWV3LWN2LmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNJO0VBQ0ksbUJBQUE7QUNBUjtBREdJO0VBQ0ksZ0JBQUE7QUNEUjtBREtBO0VBQ0UsV0FBQTtFQUNBLGFBQUE7RUFDQSxtQkFBQTtFQUNBLHFCQUFBO0FDRkYiLCJmaWxlIjoicHJvamVjdHMvcWEtY3Yvc3JjL2FwcC92aWV3LWN2L3ZpZXctY3YuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuY3YtY29udGVudC13cmFwcGVyIHtcbiAgICA+c2VjdGlvbiB7XG4gICAgICAgIG1hcmdpbi1ib3R0b206IDFyZW07XG4gICAgfVxuXG4gICAgPnNlY3Rpb246bGFzdC1jaGlsZCB7XG4gICAgICAgIG1hcmdpbi1ib3R0b206IDA7XG4gICAgfVxufVxuXG4uYnV0dG9uLXJvdyB7XG4gIHdpZHRoOiAxMDAlO1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LWRpcmVjdGlvbjogcm93O1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGxlZnQ7XG59XG4iLCIuY3YtY29udGVudC13cmFwcGVyID4gc2VjdGlvbiB7XG4gIG1hcmdpbi1ib3R0b206IDFyZW07XG59XG4uY3YtY29udGVudC13cmFwcGVyID4gc2VjdGlvbjpsYXN0LWNoaWxkIHtcbiAgbWFyZ2luLWJvdHRvbTogMDtcbn1cblxuLmJ1dHRvbi1yb3cge1xuICB3aWR0aDogMTAwJTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC1kaXJlY3Rpb246IHJvdztcbiAganVzdGlmeS1jb250ZW50OiBsZWZ0O1xufSJdfQ== */"
 
 /***/ }),
 

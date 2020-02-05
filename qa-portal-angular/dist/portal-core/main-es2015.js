@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["main"],{
 
 /***/ "../../app-init.ts":
-/*!********************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/app-init.ts ***!
-  \********************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/app-init.ts ***!
+  \**************************************************************************************/
 /*! exports provided: initializer */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -32,9 +32,9 @@ function initializer(keycloak) {
 /***/ }),
 
 /***/ "../../node_modules/moment/locale sync recursive ^\\.\\/.*$":
-/*!*************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/moment/locale sync ^\.\/.*$ ***!
-  \*************************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/moment/locale sync ^\.\/.*$ ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -318,9 +318,9 @@ webpackContext.id = "../../node_modules/moment/locale sync recursive ^\\.\\/.*$"
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-common/src/app/data-table/data-table.component.html":
-/*!******************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-common/src/app/data-table/data-table.component.html ***!
-  \******************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-common/src/app/data-table/data-table.component.html ***!
+  \************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -329,9 +329,9 @@ module.exports = "<mat-card class=\"qa-table-card\">\n  <mat-progress-bar mode=\
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-common/src/app/list/list.component.html":
-/*!******************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-common/src/app/list/list.component.html ***!
-  \******************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-common/src/app/list/list.component.html ***!
+  \************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -340,9 +340,9 @@ module.exports = "<div cdkDropList class=\"qa-list w-100\" *ngIf=\"listDataSourc
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-common/src/app/rated-question/rated-question.component.html":
-/*!**************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-common/src/app/rated-question/rated-question.component.html ***!
-  \**************************************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-common/src/app/rated-question/rated-question.component.html ***!
+  \********************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -351,9 +351,9 @@ module.exports = "<mat-radio-group class=\"qa-radio-btn-group\">\n  <div class=\
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-common/src/app/search-bar/search-bar.component.html":
-/*!******************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-common/src/app/search-bar/search-bar.component.html ***!
-  \******************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-common/src/app/search-bar/search-bar.component.html ***!
+  \************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -362,9 +362,9 @@ module.exports = "<div class=\"search-bar\" [class.expanded]=\"filterOpen\">\n  
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!../qa-common/src/app/spinner-overlay/spinner-overlay.component.html":
-/*!****************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!../qa-common/src/app/spinner-overlay/spinner-overlay.component.html ***!
-  \****************************************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!../qa-common/src/app/spinner-overlay/spinner-overlay.component.html ***!
+  \**********************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -373,9 +373,9 @@ module.exports = "\n<div class=\"overlay-container\" [class.show]=\"show\" [clas
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!./src/app/app.component.html":
-/*!*************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!./src/app/app.component.html ***!
-  \*************************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!./src/app/app.component.html ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -384,9 +384,9 @@ module.exports = "<div class=\"main-portal\">\n  <app-portal-header></app-portal
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!./src/app/header-link/header-link.component.html":
-/*!*********************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!./src/app/header-link/header-link.component.html ***!
-  \*********************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!./src/app/header-link/header-link.component.html ***!
+  \***************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -395,9 +395,9 @@ module.exports = "<button mat-button [routerLink]=\"portalApplicationProjects.po
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!./src/app/portal-application-home/portal-application-home.component.html":
-/*!*********************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!./src/app/portal-application-home/portal-application-home.component.html ***!
-  \*********************************************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!./src/app/portal-application-home/portal-application-home.component.html ***!
+  \***************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -406,9 +406,9 @@ module.exports = "<div class=\"h-100 w-100\" style=\"display: flex;\">\n  <div c
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!./src/app/portal-footer/portal-footer.component.html":
-/*!*************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!./src/app/portal-footer/portal-footer.component.html ***!
-  \*************************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!./src/app/portal-footer/portal-footer.component.html ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -417,9 +417,9 @@ module.exports = "<div class=\"portal-footer\">\n Portal Footer\n</div>\n"
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!./src/app/portal-header/portal-header.component.html":
-/*!*************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!./src/app/portal-header/portal-header.component.html ***!
-  \*************************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!./src/app/portal-header/portal-header.component.html ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -428,9 +428,9 @@ module.exports = "<mat-toolbar>\n  <mat-toolbar-row class=\"mat-elevation-z2\">\
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!./src/app/portal-help/portal-help-content/portal-help-content.component.html":
-/*!*************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!./src/app/portal-help/portal-help-content/portal-help-content.component.html ***!
-  \*************************************************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!./src/app/portal-help/portal-help-content/portal-help-content.component.html ***!
+  \*******************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -439,9 +439,9 @@ module.exports = "<p>{{message}}</p>\n"
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!./src/app/portal-help/portal-help.component.html":
-/*!*********************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!./src/app/portal-help/portal-help.component.html ***!
-  \*********************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!./src/app/portal-help/portal-help.component.html ***!
+  \***************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -450,9 +450,9 @@ module.exports = "<div class=\"help-bar\" *ngIf=\"userRole\">\n  <mat-expansion-
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!./src/app/portal-home/portal-home.component.html":
-/*!*********************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!./src/app/portal-home/portal-home.component.html ***!
-  \*********************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!./src/app/portal-home/portal-home.component.html ***!
+  \***************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -461,9 +461,9 @@ module.exports = "<div class=\"h-100 w-100\" style=\"display: flex;\">\n  <div c
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!./src/app/portal-side-menu/portal-side-menu-content/portal-side-menu-content.component.html":
-/*!****************************************************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!./src/app/portal-side-menu/portal-side-menu-content/portal-side-menu-content.component.html ***!
-  \****************************************************************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!./src/app/portal-side-menu/portal-side-menu-content/portal-side-menu-content.component.html ***!
+  \**********************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -472,9 +472,9 @@ module.exports = "<div class=\"side-menu-panel\" style=\"width: 300px; overflow-
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/index.js!./src/app/portal-side-menu/portal-side-menu.component.html":
-/*!*******************************************************************************************************************************************************************!*\
-  !*** /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/node_modules/raw-loader!./src/app/portal-side-menu/portal-side-menu.component.html ***!
-  \*******************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************!*\
+  !*** /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/node_modules/raw-loader!./src/app/portal-side-menu/portal-side-menu.component.html ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1321,7 +1321,7 @@ SearchBarComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".overlay-container {\n  display: flex;\n  position: absolute;\n  top: 0;\n  left: 0;\n  height: 100%;\n  width: 100%;\n  overflow: hidden;\n  pointer-events: none;\n  transition: all 0.2s ease-in-out;\n  opacity: 0;\n}\n.overlay-container.fade-bg {\n  background-color: rgba(200, 200, 200, 0.333);\n}\n.overlay-container.show {\n  opacity: 1;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3FhLWFkbWluL0RvY3VtZW50cy9xYS1wb3J0YWwtZGVwbG95bWVudC9mcm9udGVuZC9xYS1wb3J0YWwtYW5ndWxhci9wcm9qZWN0cy9xYS1jb21tb24vc3JjL2FwcC9zcGlubmVyLW92ZXJsYXkvc3Bpbm5lci1vdmVybGF5LmNvbXBvbmVudC5zY3NzIiwicHJvamVjdHMvcWEtY29tbW9uL3NyYy9hcHAvc3Bpbm5lci1vdmVybGF5L3NwaW5uZXItb3ZlcmxheS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQTtFQUNJLGFBQUE7RUFDQSxrQkFBQTtFQUNBLE1BQUE7RUFDQSxPQUFBO0VBQ0EsWUFBQTtFQUNBLFdBQUE7RUFDQSxnQkFBQTtFQUNBLG9CQUFBO0VBRUEsZ0NBQUE7RUFHQSxVQUFBO0FDSEo7QURNSTtFQUNJLDRDQUFBO0FDSlI7QURPSTtFQUNJLFVBQUE7QUNMUiIsImZpbGUiOiJwcm9qZWN0cy9xYS1jb21tb24vc3JjL2FwcC9zcGlubmVyLW92ZXJsYXkvc3Bpbm5lci1vdmVybGF5LmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiXG4ub3ZlcmxheS1jb250YWluZXIge1xuICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgIHRvcDogMDtcbiAgICBsZWZ0OiAwO1xuICAgIGhlaWdodDogMTAwJTtcbiAgICB3aWR0aDogMTAwJTtcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuICAgIHBvaW50ZXItZXZlbnRzOiBub25lO1xuXG4gICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZS1pbi1vdXQ7XG5cbiAgICAvLyBIaWRkZW5cbiAgICBvcGFjaXR5OiAwO1xuXG5cbiAgICAmLmZhZGUtYmcge1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDIwMCwgMjAwLCAyMDAsIDAuMzMzKTtcbiAgICB9XG4gICAgXG4gICAgJi5zaG93IHtcbiAgICAgICAgb3BhY2l0eTogMTtcbiAgICB9XG59XG4iLCIub3ZlcmxheS1jb250YWluZXIge1xuICBkaXNwbGF5OiBmbGV4O1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIHRvcDogMDtcbiAgbGVmdDogMDtcbiAgaGVpZ2h0OiAxMDAlO1xuICB3aWR0aDogMTAwJTtcbiAgb3ZlcmZsb3c6IGhpZGRlbjtcbiAgcG9pbnRlci1ldmVudHM6IG5vbmU7XG4gIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2UtaW4tb3V0O1xuICBvcGFjaXR5OiAwO1xufVxuLm92ZXJsYXktY29udGFpbmVyLmZhZGUtYmcge1xuICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDIwMCwgMjAwLCAyMDAsIDAuMzMzKTtcbn1cbi5vdmVybGF5LWNvbnRhaW5lci5zaG93IHtcbiAgb3BhY2l0eTogMTtcbn0iXX0= */"
+module.exports = ".overlay-container {\n  display: flex;\n  position: absolute;\n  top: 0;\n  left: 0;\n  height: 100%;\n  width: 100%;\n  overflow: hidden;\n  pointer-events: none;\n  transition: all 0.2s ease-in-out;\n  opacity: 0;\n}\n.overlay-container.fade-bg {\n  background-color: rgba(200, 200, 200, 0.333);\n}\n.overlay-container.show {\n  opacity: 1;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3FhLWFkbWluL0RvY3VtZW50cy9xYS1wb3J0YWwtZGVwbG95bWVudC12Mi9xYS1wb3J0YWwtYW5ndWxhci9wcm9qZWN0cy9xYS1jb21tb24vc3JjL2FwcC9zcGlubmVyLW92ZXJsYXkvc3Bpbm5lci1vdmVybGF5LmNvbXBvbmVudC5zY3NzIiwicHJvamVjdHMvcWEtY29tbW9uL3NyYy9hcHAvc3Bpbm5lci1vdmVybGF5L3NwaW5uZXItb3ZlcmxheS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQTtFQUNJLGFBQUE7RUFDQSxrQkFBQTtFQUNBLE1BQUE7RUFDQSxPQUFBO0VBQ0EsWUFBQTtFQUNBLFdBQUE7RUFDQSxnQkFBQTtFQUNBLG9CQUFBO0VBRUEsZ0NBQUE7RUFHQSxVQUFBO0FDSEo7QURNSTtFQUNJLDRDQUFBO0FDSlI7QURPSTtFQUNJLFVBQUE7QUNMUiIsImZpbGUiOiJwcm9qZWN0cy9xYS1jb21tb24vc3JjL2FwcC9zcGlubmVyLW92ZXJsYXkvc3Bpbm5lci1vdmVybGF5LmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiXG4ub3ZlcmxheS1jb250YWluZXIge1xuICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgIHRvcDogMDtcbiAgICBsZWZ0OiAwO1xuICAgIGhlaWdodDogMTAwJTtcbiAgICB3aWR0aDogMTAwJTtcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuICAgIHBvaW50ZXItZXZlbnRzOiBub25lO1xuXG4gICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZS1pbi1vdXQ7XG5cbiAgICAvLyBIaWRkZW5cbiAgICBvcGFjaXR5OiAwO1xuXG5cbiAgICAmLmZhZGUtYmcge1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDIwMCwgMjAwLCAyMDAsIDAuMzMzKTtcbiAgICB9XG4gICAgXG4gICAgJi5zaG93IHtcbiAgICAgICAgb3BhY2l0eTogMTtcbiAgICB9XG59XG4iLCIub3ZlcmxheS1jb250YWluZXIge1xuICBkaXNwbGF5OiBmbGV4O1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIHRvcDogMDtcbiAgbGVmdDogMDtcbiAgaGVpZ2h0OiAxMDAlO1xuICB3aWR0aDogMTAwJTtcbiAgb3ZlcmZsb3c6IGhpZGRlbjtcbiAgcG9pbnRlci1ldmVudHM6IG5vbmU7XG4gIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2UtaW4tb3V0O1xuICBvcGFjaXR5OiAwO1xufVxuLm92ZXJsYXktY29udGFpbmVyLmZhZGUtYmcge1xuICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDIwMCwgMjAwLCAyMDAsIDAuMzMzKTtcbn1cbi5vdmVybGF5LWNvbnRhaW5lci5zaG93IHtcbiAgb3BhY2l0eTogMTtcbn0iXX0= */"
 
 /***/ }),
 
@@ -1970,7 +1970,7 @@ AppRoutingModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".main-portal {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  align-content: stretch;\n}\n\napp-portal-side-menu {\n  flex: 15 1 auto;\n}\n\napp-portal-footer {\n  display: flex;\n  flex: 1 0 auto;\n  justify-content: center;\n  align-items: center;\n  background-color: #f5f5f5;\n  color: #0060B9;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3FhLWFkbWluL0RvY3VtZW50cy9xYS1wb3J0YWwtZGVwbG95bWVudC9mcm9udGVuZC9xYS1wb3J0YWwtYW5ndWxhci9wcm9qZWN0cy9wb3J0YWwtY29yZS9zcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyIsInByb2plY3RzL3BvcnRhbC1jb3JlL3NyYy9hcHAvYXBwLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsV0FBQTtFQUNBLFlBQUE7RUFDQSxhQUFBO0VBQ0Esc0JBQUE7RUFDQSxzQkFBQTtBQ0NGOztBRE1BO0VBQ0UsZUFBQTtBQ0hGOztBRE1BO0VBQ0UsYUFBQTtFQUNBLGNBQUE7RUFDQSx1QkFBQTtFQUNBLG1CQUFBO0VBQ0EseUJBQUE7RUFDQSxjQUFBO0FDSEYiLCJmaWxlIjoicHJvamVjdHMvcG9ydGFsLWNvcmUvc3JjL2FwcC9hcHAuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIubWFpbi1wb3J0YWwge1xuICB3aWR0aDogMTAwJTtcbiAgaGVpZ2h0OiAxMDAlO1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICBhbGlnbi1jb250ZW50OiBzdHJldGNoO1xufVxuXG5hcHAtcG9ydGFsLWhlYWRlciB7XG5cbn1cblxuYXBwLXBvcnRhbC1zaWRlLW1lbnUge1xuICBmbGV4OiAxNSAxIGF1dG87XG59XG5cbmFwcC1wb3J0YWwtZm9vdGVyIHtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleDogMSAwIGF1dG87XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjZjVmNWY1O1xuICBjb2xvcjogIzAwNjBCOTtcbn1cbiIsIi5tYWluLXBvcnRhbCB7XG4gIHdpZHRoOiAxMDAlO1xuICBoZWlnaHQ6IDEwMCU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gIGFsaWduLWNvbnRlbnQ6IHN0cmV0Y2g7XG59XG5cbmFwcC1wb3J0YWwtc2lkZS1tZW51IHtcbiAgZmxleDogMTUgMSBhdXRvO1xufVxuXG5hcHAtcG9ydGFsLWZvb3RlciB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXg6IDEgMCBhdXRvO1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgYmFja2dyb3VuZC1jb2xvcjogI2Y1ZjVmNTtcbiAgY29sb3I6ICMwMDYwQjk7XG59Il19 */"
+module.exports = ".main-portal {\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  align-content: stretch;\n}\n\napp-portal-side-menu {\n  flex: 15 1 auto;\n}\n\napp-portal-footer {\n  display: flex;\n  flex: 1 0 auto;\n  justify-content: center;\n  align-items: center;\n  background-color: #f5f5f5;\n  color: #0060B9;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3FhLWFkbWluL0RvY3VtZW50cy9xYS1wb3J0YWwtZGVwbG95bWVudC12Mi9xYS1wb3J0YWwtYW5ndWxhci9wcm9qZWN0cy9wb3J0YWwtY29yZS9zcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyIsInByb2plY3RzL3BvcnRhbC1jb3JlL3NyYy9hcHAvYXBwLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsV0FBQTtFQUNBLFlBQUE7RUFDQSxhQUFBO0VBQ0Esc0JBQUE7RUFDQSxzQkFBQTtBQ0NGOztBRE1BO0VBQ0UsZUFBQTtBQ0hGOztBRE1BO0VBQ0UsYUFBQTtFQUNBLGNBQUE7RUFDQSx1QkFBQTtFQUNBLG1CQUFBO0VBQ0EseUJBQUE7RUFDQSxjQUFBO0FDSEYiLCJmaWxlIjoicHJvamVjdHMvcG9ydGFsLWNvcmUvc3JjL2FwcC9hcHAuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIubWFpbi1wb3J0YWwge1xuICB3aWR0aDogMTAwJTtcbiAgaGVpZ2h0OiAxMDAlO1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICBhbGlnbi1jb250ZW50OiBzdHJldGNoO1xufVxuXG5hcHAtcG9ydGFsLWhlYWRlciB7XG5cbn1cblxuYXBwLXBvcnRhbC1zaWRlLW1lbnUge1xuICBmbGV4OiAxNSAxIGF1dG87XG59XG5cbmFwcC1wb3J0YWwtZm9vdGVyIHtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleDogMSAwIGF1dG87XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjZjVmNWY1O1xuICBjb2xvcjogIzAwNjBCOTtcbn1cbiIsIi5tYWluLXBvcnRhbCB7XG4gIHdpZHRoOiAxMDAlO1xuICBoZWlnaHQ6IDEwMCU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gIGFsaWduLWNvbnRlbnQ6IHN0cmV0Y2g7XG59XG5cbmFwcC1wb3J0YWwtc2lkZS1tZW51IHtcbiAgZmxleDogMTUgMSBhdXRvO1xufVxuXG5hcHAtcG9ydGFsLWZvb3RlciB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXg6IDEgMCBhdXRvO1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgYmFja2dyb3VuZC1jb2xvcjogI2Y1ZjVmNTtcbiAgY29sb3I6ICMwMDYwQjk7XG59Il19 */"
 
 /***/ }),
 
@@ -2203,7 +2203,7 @@ PortalApplicationHomeComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".portal-footer {\n  text-align: center;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3FhLWFkbWluL0RvY3VtZW50cy9xYS1wb3J0YWwtZGVwbG95bWVudC9mcm9udGVuZC9xYS1wb3J0YWwtYW5ndWxhci9wcm9qZWN0cy9wb3J0YWwtY29yZS9zcmMvYXBwL3BvcnRhbC1mb290ZXIvcG9ydGFsLWZvb3Rlci5jb21wb25lbnQuc2NzcyIsInByb2plY3RzL3BvcnRhbC1jb3JlL3NyYy9hcHAvcG9ydGFsLWZvb3Rlci9wb3J0YWwtZm9vdGVyLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0Usa0JBQUE7QUNDRiIsImZpbGUiOiJwcm9qZWN0cy9wb3J0YWwtY29yZS9zcmMvYXBwL3BvcnRhbC1mb290ZXIvcG9ydGFsLWZvb3Rlci5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5wb3J0YWwtZm9vdGVyIHtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuIiwiLnBvcnRhbC1mb290ZXIge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59Il19 */"
+module.exports = ".portal-footer {\n  text-align: center;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3FhLWFkbWluL0RvY3VtZW50cy9xYS1wb3J0YWwtZGVwbG95bWVudC12Mi9xYS1wb3J0YWwtYW5ndWxhci9wcm9qZWN0cy9wb3J0YWwtY29yZS9zcmMvYXBwL3BvcnRhbC1mb290ZXIvcG9ydGFsLWZvb3Rlci5jb21wb25lbnQuc2NzcyIsInByb2plY3RzL3BvcnRhbC1jb3JlL3NyYy9hcHAvcG9ydGFsLWZvb3Rlci9wb3J0YWwtZm9vdGVyLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0Usa0JBQUE7QUNDRiIsImZpbGUiOiJwcm9qZWN0cy9wb3J0YWwtY29yZS9zcmMvYXBwL3BvcnRhbC1mb290ZXIvcG9ydGFsLWZvb3Rlci5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5wb3J0YWwtZm9vdGVyIHtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuIiwiLnBvcnRhbC1mb290ZXIge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59Il19 */"
 
 /***/ }),
 
@@ -2436,7 +2436,7 @@ PortalHelpComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".row {\n  display: flex;\n  flex-direction: row;\n  height: 100%;\n}\n\n.col {\n  display: flex;\n  flex-direction: column;\n  width: 100%;\n}\n\n.col-no-fit {\n  display: flex;\n  flex-direction: column;\n}\n\n.col-3 {\n  display: flex;\n  flex-direction: column;\n  width: 33.333333%;\n}\n\n.block-container {\n  width: 100%;\n  align-items: center;\n}\n\n.block-item {\n  color: white;\n  text-shadow: 1px 2px 3px black;\n  margin: 20px;\n  padding: 20px;\n  text-align: center;\n  align-self: center;\n  align-content: center;\n  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);\n  border-radius: 10px;\n  background-color: rgba(0, 0, 0, 0.8);\n  max-width: 800px;\n}\n\n.block-title {\n  color: white !important;\n  font-size: calc(20px + .8vw);\n}\n\n.sub-block-item {\n  align-self: center;\n  text-align: center;\n  align-content: center;\n  align-items: center;\n  border-radius: 3px;\n  padding: 10px;\n  height: calc(60px + 2vw);\n}\n\n.sub-block-title {\n  font-size: calc(6px + .8vw);\n  vertical-align: middle;\n  margin: auto;\n}\n\n.sub-block-text {\n  max-width: 100px;\n  text-align: center;\n}\n\n.block-button {\n  width: calc(90px + .6vw);\n  align-self: center;\n  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);\n  font-size: calc(8px + .5vw);\n}\n\n.bg-img-1 {\n  background-image: url(\"/assets/images/QA-bg-img1.jpg\");\n  background-size: cover;\n  background-repeat: no-repeat;\n  background-position-x: right;\n}\n\n.bg-img-2 {\n  background-image: url(\"/assets/images/QA-bg-img2.jpg\");\n  background-size: cover;\n  background-repeat: no-repeat;\n  background-position-x: right;\n}\n\n.bg-img-3 {\n  background-image: url(\"/assets/images/QA-bg-img3.jpg\");\n  background-size: cover;\n  background-repeat: no-repeat;\n  background-position-x: right;\n}\n\n.bg-img-4 {\n  background-image: url(\"/assets/images/QA-bg-img4.jpg\");\n  background-size: cover;\n  background-repeat: no-repeat;\n  background-position-x: right;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3FhLWFkbWluL0RvY3VtZW50cy9xYS1wb3J0YWwtZGVwbG95bWVudC9mcm9udGVuZC9xYS1wb3J0YWwtYW5ndWxhci9wcm9qZWN0cy9wb3J0YWwtY29yZS9zcmMvYXBwL3BvcnRhbC1ob21lL3BvcnRhbC1ob21lLmNvbXBvbmVudC5zY3NzIiwicHJvamVjdHMvcG9ydGFsLWNvcmUvc3JjL2FwcC9wb3J0YWwtaG9tZS9wb3J0YWwtaG9tZS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGFBQUE7RUFDQSxtQkFBQTtFQUNBLFlBQUE7QUNDSjs7QURFQTtFQUNJLGFBQUE7RUFDQSxzQkFBQTtFQUNBLFdBQUE7QUNDSjs7QURFQTtFQUNJLGFBQUE7RUFDQSxzQkFBQTtBQ0NKOztBREVBO0VBQ0ksYUFBQTtFQUNBLHNCQUFBO0VBQ0EsaUJBQUE7QUNDSjs7QURFQTtFQUNJLFdBQUE7RUFDQSxtQkFBQTtBQ0NKOztBREVBO0VBQ0ksWUFBQTtFQUNBLDhCQUFBO0VBQ0EsWUFBQTtFQUNBLGFBQUE7RUFDQSxrQkFBQTtFQUNBLGtCQUFBO0VBQ0EscUJBQUE7RUFDQSw0RUFBQTtFQUNBLG1CQUFBO0VBQ0Esb0NBQUE7RUFDQSxnQkFBQTtBQ0NKOztBREVBO0VBQ0ksdUJBQUE7RUFDQSw0QkFBQTtBQ0NKOztBREVBO0VBQ0ksa0JBQUE7RUFDQSxrQkFBQTtFQUNBLHFCQUFBO0VBQ0EsbUJBQUE7RUFDQSxrQkFBQTtFQUNBLGFBQUE7RUFDQSx3QkFBQTtBQ0NKOztBREVBO0VBQ0ksMkJBQUE7RUFDQSxzQkFBQTtFQUNBLFlBQUE7QUNDSjs7QURFQTtFQUNJLGdCQUFBO0VBQ0Esa0JBQUE7QUNDSjs7QURFQTtFQUNJLHdCQUFBO0VBQ0Esa0JBQUE7RUFDQSw0RUFBQTtFQUNBLDJCQUFBO0FDQ0o7O0FEU0k7RUFDSSxzREFSSTtFQVNKLHNCQUFBO0VBQ0EsNEJBQUE7RUFDQSw0QkFBQTtBQ05SOztBREVJO0VBQ0ksc0RBUkk7RUFTSixzQkFBQTtFQUNBLDRCQUFBO0VBQ0EsNEJBQUE7QUNDUjs7QURMSTtFQUNJLHNEQVJJO0VBU0osc0JBQUE7RUFDQSw0QkFBQTtFQUNBLDRCQUFBO0FDUVI7O0FEWkk7RUFDSSxzREFSSTtFQVNKLHNCQUFBO0VBQ0EsNEJBQUE7RUFDQSw0QkFBQTtBQ2VSIiwiZmlsZSI6InByb2plY3RzL3BvcnRhbC1jb3JlL3NyYy9hcHAvcG9ydGFsLWhvbWUvcG9ydGFsLWhvbWUuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIucm93e1xuICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgZmxleC1kaXJlY3Rpb246IHJvdztcbiAgICBoZWlnaHQ6IDEwMCU7XG59XG5cbi5jb2x7XG4gICAgZGlzcGxheTogZmxleDtcbiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICAgIHdpZHRoOiAxMDAlO1xufVxuXG4uY29sLW5vLWZpdHtcbiAgICBkaXNwbGF5OiBmbGV4O1xuICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG59XG5cbi5jb2wtM3tcbiAgICBkaXNwbGF5OiBmbGV4O1xuICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAgd2lkdGg6IDMzLjMzMzMzMyU7XG59XG5cbi5ibG9jay1jb250YWluZXJ7XG4gICAgd2lkdGg6IDEwMCU7XG4gICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbn1cblxuLmJsb2NrLWl0ZW17XG4gICAgY29sb3I6IHdoaXRlO1xuICAgIHRleHQtc2hhZG93OiAxcHggMnB4IDNweCBibGFjaztcbiAgICBtYXJnaW46IDIwcHg7XG4gICAgcGFkZGluZzogMjBweDtcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgYWxpZ24tc2VsZjogY2VudGVyO1xuICAgIGFsaWduLWNvbnRlbnQ6IGNlbnRlcjtcbiAgICBib3gtc2hhZG93OiAwIDRweCA4cHggMCByZ2JhKDAsIDAsIDAsIDAuMiksIDAgNnB4IDIwcHggMCByZ2JhKDAsIDAsIDAsIDAuMTkpO1xuICAgIGJvcmRlci1yYWRpdXM6IDEwcHg7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgwLCAwLCAwLCAwLjgwKTtcbiAgICBtYXgtd2lkdGg6IDgwMHB4O1xufVxuXG4uYmxvY2stdGl0bGV7XG4gICAgY29sb3I6IHdoaXRlICFpbXBvcnRhbnQ7XG4gICAgZm9udC1zaXplOiBjYWxjKDIwcHggKyAuOHZ3KTtcbn1cblxuLnN1Yi1ibG9jay1pdGVte1xuICAgIGFsaWduLXNlbGY6IGNlbnRlcjtcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgYWxpZ24tY29udGVudDogY2VudGVyO1xuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgYm9yZGVyLXJhZGl1czogM3B4O1xuICAgIHBhZGRpbmc6IDEwcHg7XG4gICAgaGVpZ2h0OiBjYWxjKDYwcHggKyAydncpO1xufVxuXG4uc3ViLWJsb2NrLXRpdGxle1xuICAgIGZvbnQtc2l6ZTogY2FsYyg2cHggKyAuOHZ3KTtcbiAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlO1xuICAgIG1hcmdpbjogYXV0bztcbn1cblxuLnN1Yi1ibG9jay10ZXh0e1xuICAgIG1heC13aWR0aDogMTAwcHg7XG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4uYmxvY2stYnV0dG9ue1xuICAgIHdpZHRoOiBjYWxjKDkwcHggKyAuNnZ3KTtcbiAgICBhbGlnbi1zZWxmOiBjZW50ZXI7XG4gICAgYm94LXNoYWRvdzogMCA0cHggOHB4IDAgcmdiYSgwLCAwLCAwLCAwLjIpLCAwIDZweCAyMHB4IDAgcmdiYSgwLCAwLCAwLCAwLjE5KTtcbiAgICBmb250LXNpemU6IGNhbGMoOHB4ICsgLjV2dyk7XG59XG5cbiRiZy1pbWdzOiAgIHVybChcIi9hc3NldHMvaW1hZ2VzL1FBLWJnLWltZzEuanBnXCIpLFxuICAgICAgICAgICAgdXJsKFwiL2Fzc2V0cy9pbWFnZXMvUUEtYmctaW1nMi5qcGdcIiksXG4gICAgICAgICAgICB1cmwoXCIvYXNzZXRzL2ltYWdlcy9RQS1iZy1pbWczLmpwZ1wiKSxcbiAgICAgICAgICAgIHVybChcIi9hc3NldHMvaW1hZ2VzL1FBLWJnLWltZzQuanBnXCIpO1xuXG5AZWFjaCAkdXJsIGluICRiZy1pbWdzIHtcbiAgICAkaTogaW5kZXgoJGxpc3Q6ICRiZy1pbWdzLCAkdmFsdWU6ICR1cmwpO1xuICAgIC5iZy1pbWctI3skaX0ge1xuICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiAkdXJsO1xuICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICAgICAgICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xuICAgICAgICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXg6IHJpZ2h0OyAgICBcbiAgICB9XG59IiwiLnJvdyB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiByb3c7XG4gIGhlaWdodDogMTAwJTtcbn1cblxuLmNvbCB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gIHdpZHRoOiAxMDAlO1xufVxuXG4uY29sLW5vLWZpdCB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG59XG5cbi5jb2wtMyB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gIHdpZHRoOiAzMy4zMzMzMzMlO1xufVxuXG4uYmxvY2stY29udGFpbmVyIHtcbiAgd2lkdGg6IDEwMCU7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG59XG5cbi5ibG9jay1pdGVtIHtcbiAgY29sb3I6IHdoaXRlO1xuICB0ZXh0LXNoYWRvdzogMXB4IDJweCAzcHggYmxhY2s7XG4gIG1hcmdpbjogMjBweDtcbiAgcGFkZGluZzogMjBweDtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xuICBhbGlnbi1zZWxmOiBjZW50ZXI7XG4gIGFsaWduLWNvbnRlbnQ6IGNlbnRlcjtcbiAgYm94LXNoYWRvdzogMCA0cHggOHB4IDAgcmdiYSgwLCAwLCAwLCAwLjIpLCAwIDZweCAyMHB4IDAgcmdiYSgwLCAwLCAwLCAwLjE5KTtcbiAgYm9yZGVyLXJhZGl1czogMTBweDtcbiAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgwLCAwLCAwLCAwLjgpO1xuICBtYXgtd2lkdGg6IDgwMHB4O1xufVxuXG4uYmxvY2stdGl0bGUge1xuICBjb2xvcjogd2hpdGUgIWltcG9ydGFudDtcbiAgZm9udC1zaXplOiBjYWxjKDIwcHggKyAuOHZ3KTtcbn1cblxuLnN1Yi1ibG9jay1pdGVtIHtcbiAgYWxpZ24tc2VsZjogY2VudGVyO1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gIGFsaWduLWNvbnRlbnQ6IGNlbnRlcjtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgYm9yZGVyLXJhZGl1czogM3B4O1xuICBwYWRkaW5nOiAxMHB4O1xuICBoZWlnaHQ6IGNhbGMoNjBweCArIDJ2dyk7XG59XG5cbi5zdWItYmxvY2stdGl0bGUge1xuICBmb250LXNpemU6IGNhbGMoNnB4ICsgLjh2dyk7XG4gIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7XG4gIG1hcmdpbjogYXV0bztcbn1cblxuLnN1Yi1ibG9jay10ZXh0IHtcbiAgbWF4LXdpZHRoOiAxMDBweDtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4uYmxvY2stYnV0dG9uIHtcbiAgd2lkdGg6IGNhbGMoOTBweCArIC42dncpO1xuICBhbGlnbi1zZWxmOiBjZW50ZXI7XG4gIGJveC1zaGFkb3c6IDAgNHB4IDhweCAwIHJnYmEoMCwgMCwgMCwgMC4yKSwgMCA2cHggMjBweCAwIHJnYmEoMCwgMCwgMCwgMC4xOSk7XG4gIGZvbnQtc2l6ZTogY2FsYyg4cHggKyAuNXZ3KTtcbn1cblxuLmJnLWltZy0xIHtcbiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKFwiL2Fzc2V0cy9pbWFnZXMvUUEtYmctaW1nMS5qcGdcIik7XG4gIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XG4gIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7XG4gIGJhY2tncm91bmQtcG9zaXRpb24teDogcmlnaHQ7XG59XG5cbi5iZy1pbWctMiB7XG4gIGJhY2tncm91bmQtaW1hZ2U6IHVybChcIi9hc3NldHMvaW1hZ2VzL1FBLWJnLWltZzIuanBnXCIpO1xuICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xuICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXg6IHJpZ2h0O1xufVxuXG4uYmctaW1nLTMge1xuICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoXCIvYXNzZXRzL2ltYWdlcy9RQS1iZy1pbWczLmpwZ1wiKTtcbiAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjtcbiAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDtcbiAgYmFja2dyb3VuZC1wb3NpdGlvbi14OiByaWdodDtcbn1cblxuLmJnLWltZy00IHtcbiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKFwiL2Fzc2V0cy9pbWFnZXMvUUEtYmctaW1nNC5qcGdcIik7XG4gIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XG4gIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7XG4gIGJhY2tncm91bmQtcG9zaXRpb24teDogcmlnaHQ7XG59Il19 */"
+module.exports = ".row {\n  display: flex;\n  flex-direction: row;\n  height: 100%;\n}\n\n.col {\n  display: flex;\n  flex-direction: column;\n  width: 100%;\n}\n\n.col-no-fit {\n  display: flex;\n  flex-direction: column;\n}\n\n.col-3 {\n  display: flex;\n  flex-direction: column;\n  width: 33.333333%;\n}\n\n.block-container {\n  width: 100%;\n  align-items: center;\n}\n\n.block-item {\n  color: white;\n  text-shadow: 1px 2px 3px black;\n  margin: 20px;\n  padding: 20px;\n  text-align: center;\n  align-self: center;\n  align-content: center;\n  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);\n  border-radius: 10px;\n  background-color: rgba(0, 0, 0, 0.8);\n  max-width: 800px;\n}\n\n.block-title {\n  color: white !important;\n  font-size: calc(20px + .8vw);\n}\n\n.sub-block-item {\n  align-self: center;\n  text-align: center;\n  align-content: center;\n  align-items: center;\n  border-radius: 3px;\n  padding: 10px;\n  height: calc(60px + 2vw);\n}\n\n.sub-block-title {\n  font-size: calc(6px + .8vw);\n  vertical-align: middle;\n  margin: auto;\n}\n\n.sub-block-text {\n  max-width: 100px;\n  text-align: center;\n}\n\n.block-button {\n  width: calc(90px + .6vw);\n  align-self: center;\n  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);\n  font-size: calc(8px + .5vw);\n}\n\n.bg-img-1 {\n  background-image: url(\"/assets/images/QA-bg-img1.jpg\");\n  background-size: cover;\n  background-repeat: no-repeat;\n  background-position-x: right;\n}\n\n.bg-img-2 {\n  background-image: url(\"/assets/images/QA-bg-img2.jpg\");\n  background-size: cover;\n  background-repeat: no-repeat;\n  background-position-x: right;\n}\n\n.bg-img-3 {\n  background-image: url(\"/assets/images/QA-bg-img3.jpg\");\n  background-size: cover;\n  background-repeat: no-repeat;\n  background-position-x: right;\n}\n\n.bg-img-4 {\n  background-image: url(\"/assets/images/QA-bg-img4.jpg\");\n  background-size: cover;\n  background-repeat: no-repeat;\n  background-position-x: right;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3FhLWFkbWluL0RvY3VtZW50cy9xYS1wb3J0YWwtZGVwbG95bWVudC12Mi9xYS1wb3J0YWwtYW5ndWxhci9wcm9qZWN0cy9wb3J0YWwtY29yZS9zcmMvYXBwL3BvcnRhbC1ob21lL3BvcnRhbC1ob21lLmNvbXBvbmVudC5zY3NzIiwicHJvamVjdHMvcG9ydGFsLWNvcmUvc3JjL2FwcC9wb3J0YWwtaG9tZS9wb3J0YWwtaG9tZS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGFBQUE7RUFDQSxtQkFBQTtFQUNBLFlBQUE7QUNDSjs7QURFQTtFQUNJLGFBQUE7RUFDQSxzQkFBQTtFQUNBLFdBQUE7QUNDSjs7QURFQTtFQUNJLGFBQUE7RUFDQSxzQkFBQTtBQ0NKOztBREVBO0VBQ0ksYUFBQTtFQUNBLHNCQUFBO0VBQ0EsaUJBQUE7QUNDSjs7QURFQTtFQUNJLFdBQUE7RUFDQSxtQkFBQTtBQ0NKOztBREVBO0VBQ0ksWUFBQTtFQUNBLDhCQUFBO0VBQ0EsWUFBQTtFQUNBLGFBQUE7RUFDQSxrQkFBQTtFQUNBLGtCQUFBO0VBQ0EscUJBQUE7RUFDQSw0RUFBQTtFQUNBLG1CQUFBO0VBQ0Esb0NBQUE7RUFDQSxnQkFBQTtBQ0NKOztBREVBO0VBQ0ksdUJBQUE7RUFDQSw0QkFBQTtBQ0NKOztBREVBO0VBQ0ksa0JBQUE7RUFDQSxrQkFBQTtFQUNBLHFCQUFBO0VBQ0EsbUJBQUE7RUFDQSxrQkFBQTtFQUNBLGFBQUE7RUFDQSx3QkFBQTtBQ0NKOztBREVBO0VBQ0ksMkJBQUE7RUFDQSxzQkFBQTtFQUNBLFlBQUE7QUNDSjs7QURFQTtFQUNJLGdCQUFBO0VBQ0Esa0JBQUE7QUNDSjs7QURFQTtFQUNJLHdCQUFBO0VBQ0Esa0JBQUE7RUFDQSw0RUFBQTtFQUNBLDJCQUFBO0FDQ0o7O0FEU0k7RUFDSSxzREFSSTtFQVNKLHNCQUFBO0VBQ0EsNEJBQUE7RUFDQSw0QkFBQTtBQ05SOztBREVJO0VBQ0ksc0RBUkk7RUFTSixzQkFBQTtFQUNBLDRCQUFBO0VBQ0EsNEJBQUE7QUNDUjs7QURMSTtFQUNJLHNEQVJJO0VBU0osc0JBQUE7RUFDQSw0QkFBQTtFQUNBLDRCQUFBO0FDUVI7O0FEWkk7RUFDSSxzREFSSTtFQVNKLHNCQUFBO0VBQ0EsNEJBQUE7RUFDQSw0QkFBQTtBQ2VSIiwiZmlsZSI6InByb2plY3RzL3BvcnRhbC1jb3JlL3NyYy9hcHAvcG9ydGFsLWhvbWUvcG9ydGFsLWhvbWUuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIucm93e1xuICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgZmxleC1kaXJlY3Rpb246IHJvdztcbiAgICBoZWlnaHQ6IDEwMCU7XG59XG5cbi5jb2x7XG4gICAgZGlzcGxheTogZmxleDtcbiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICAgIHdpZHRoOiAxMDAlO1xufVxuXG4uY29sLW5vLWZpdHtcbiAgICBkaXNwbGF5OiBmbGV4O1xuICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG59XG5cbi5jb2wtM3tcbiAgICBkaXNwbGF5OiBmbGV4O1xuICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAgd2lkdGg6IDMzLjMzMzMzMyU7XG59XG5cbi5ibG9jay1jb250YWluZXJ7XG4gICAgd2lkdGg6IDEwMCU7XG4gICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbn1cblxuLmJsb2NrLWl0ZW17XG4gICAgY29sb3I6IHdoaXRlO1xuICAgIHRleHQtc2hhZG93OiAxcHggMnB4IDNweCBibGFjaztcbiAgICBtYXJnaW46IDIwcHg7XG4gICAgcGFkZGluZzogMjBweDtcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgYWxpZ24tc2VsZjogY2VudGVyO1xuICAgIGFsaWduLWNvbnRlbnQ6IGNlbnRlcjtcbiAgICBib3gtc2hhZG93OiAwIDRweCA4cHggMCByZ2JhKDAsIDAsIDAsIDAuMiksIDAgNnB4IDIwcHggMCByZ2JhKDAsIDAsIDAsIDAuMTkpO1xuICAgIGJvcmRlci1yYWRpdXM6IDEwcHg7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgwLCAwLCAwLCAwLjgwKTtcbiAgICBtYXgtd2lkdGg6IDgwMHB4O1xufVxuXG4uYmxvY2stdGl0bGV7XG4gICAgY29sb3I6IHdoaXRlICFpbXBvcnRhbnQ7XG4gICAgZm9udC1zaXplOiBjYWxjKDIwcHggKyAuOHZ3KTtcbn1cblxuLnN1Yi1ibG9jay1pdGVte1xuICAgIGFsaWduLXNlbGY6IGNlbnRlcjtcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgYWxpZ24tY29udGVudDogY2VudGVyO1xuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgYm9yZGVyLXJhZGl1czogM3B4O1xuICAgIHBhZGRpbmc6IDEwcHg7XG4gICAgaGVpZ2h0OiBjYWxjKDYwcHggKyAydncpO1xufVxuXG4uc3ViLWJsb2NrLXRpdGxle1xuICAgIGZvbnQtc2l6ZTogY2FsYyg2cHggKyAuOHZ3KTtcbiAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlO1xuICAgIG1hcmdpbjogYXV0bztcbn1cblxuLnN1Yi1ibG9jay10ZXh0e1xuICAgIG1heC13aWR0aDogMTAwcHg7XG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4uYmxvY2stYnV0dG9ue1xuICAgIHdpZHRoOiBjYWxjKDkwcHggKyAuNnZ3KTtcbiAgICBhbGlnbi1zZWxmOiBjZW50ZXI7XG4gICAgYm94LXNoYWRvdzogMCA0cHggOHB4IDAgcmdiYSgwLCAwLCAwLCAwLjIpLCAwIDZweCAyMHB4IDAgcmdiYSgwLCAwLCAwLCAwLjE5KTtcbiAgICBmb250LXNpemU6IGNhbGMoOHB4ICsgLjV2dyk7XG59XG5cbiRiZy1pbWdzOiAgIHVybChcIi9hc3NldHMvaW1hZ2VzL1FBLWJnLWltZzEuanBnXCIpLFxuICAgICAgICAgICAgdXJsKFwiL2Fzc2V0cy9pbWFnZXMvUUEtYmctaW1nMi5qcGdcIiksXG4gICAgICAgICAgICB1cmwoXCIvYXNzZXRzL2ltYWdlcy9RQS1iZy1pbWczLmpwZ1wiKSxcbiAgICAgICAgICAgIHVybChcIi9hc3NldHMvaW1hZ2VzL1FBLWJnLWltZzQuanBnXCIpO1xuXG5AZWFjaCAkdXJsIGluICRiZy1pbWdzIHtcbiAgICAkaTogaW5kZXgoJGxpc3Q6ICRiZy1pbWdzLCAkdmFsdWU6ICR1cmwpO1xuICAgIC5iZy1pbWctI3skaX0ge1xuICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiAkdXJsO1xuICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICAgICAgICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xuICAgICAgICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXg6IHJpZ2h0OyAgICBcbiAgICB9XG59IiwiLnJvdyB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiByb3c7XG4gIGhlaWdodDogMTAwJTtcbn1cblxuLmNvbCB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gIHdpZHRoOiAxMDAlO1xufVxuXG4uY29sLW5vLWZpdCB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG59XG5cbi5jb2wtMyB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gIHdpZHRoOiAzMy4zMzMzMzMlO1xufVxuXG4uYmxvY2stY29udGFpbmVyIHtcbiAgd2lkdGg6IDEwMCU7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG59XG5cbi5ibG9jay1pdGVtIHtcbiAgY29sb3I6IHdoaXRlO1xuICB0ZXh0LXNoYWRvdzogMXB4IDJweCAzcHggYmxhY2s7XG4gIG1hcmdpbjogMjBweDtcbiAgcGFkZGluZzogMjBweDtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xuICBhbGlnbi1zZWxmOiBjZW50ZXI7XG4gIGFsaWduLWNvbnRlbnQ6IGNlbnRlcjtcbiAgYm94LXNoYWRvdzogMCA0cHggOHB4IDAgcmdiYSgwLCAwLCAwLCAwLjIpLCAwIDZweCAyMHB4IDAgcmdiYSgwLCAwLCAwLCAwLjE5KTtcbiAgYm9yZGVyLXJhZGl1czogMTBweDtcbiAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgwLCAwLCAwLCAwLjgpO1xuICBtYXgtd2lkdGg6IDgwMHB4O1xufVxuXG4uYmxvY2stdGl0bGUge1xuICBjb2xvcjogd2hpdGUgIWltcG9ydGFudDtcbiAgZm9udC1zaXplOiBjYWxjKDIwcHggKyAuOHZ3KTtcbn1cblxuLnN1Yi1ibG9jay1pdGVtIHtcbiAgYWxpZ24tc2VsZjogY2VudGVyO1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gIGFsaWduLWNvbnRlbnQ6IGNlbnRlcjtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgYm9yZGVyLXJhZGl1czogM3B4O1xuICBwYWRkaW5nOiAxMHB4O1xuICBoZWlnaHQ6IGNhbGMoNjBweCArIDJ2dyk7XG59XG5cbi5zdWItYmxvY2stdGl0bGUge1xuICBmb250LXNpemU6IGNhbGMoNnB4ICsgLjh2dyk7XG4gIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7XG4gIG1hcmdpbjogYXV0bztcbn1cblxuLnN1Yi1ibG9jay10ZXh0IHtcbiAgbWF4LXdpZHRoOiAxMDBweDtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4uYmxvY2stYnV0dG9uIHtcbiAgd2lkdGg6IGNhbGMoOTBweCArIC42dncpO1xuICBhbGlnbi1zZWxmOiBjZW50ZXI7XG4gIGJveC1zaGFkb3c6IDAgNHB4IDhweCAwIHJnYmEoMCwgMCwgMCwgMC4yKSwgMCA2cHggMjBweCAwIHJnYmEoMCwgMCwgMCwgMC4xOSk7XG4gIGZvbnQtc2l6ZTogY2FsYyg4cHggKyAuNXZ3KTtcbn1cblxuLmJnLWltZy0xIHtcbiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKFwiL2Fzc2V0cy9pbWFnZXMvUUEtYmctaW1nMS5qcGdcIik7XG4gIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XG4gIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7XG4gIGJhY2tncm91bmQtcG9zaXRpb24teDogcmlnaHQ7XG59XG5cbi5iZy1pbWctMiB7XG4gIGJhY2tncm91bmQtaW1hZ2U6IHVybChcIi9hc3NldHMvaW1hZ2VzL1FBLWJnLWltZzIuanBnXCIpO1xuICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xuICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXg6IHJpZ2h0O1xufVxuXG4uYmctaW1nLTMge1xuICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoXCIvYXNzZXRzL2ltYWdlcy9RQS1iZy1pbWczLmpwZ1wiKTtcbiAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjtcbiAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDtcbiAgYmFja2dyb3VuZC1wb3NpdGlvbi14OiByaWdodDtcbn1cblxuLmJnLWltZy00IHtcbiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKFwiL2Fzc2V0cy9pbWFnZXMvUUEtYmctaW1nNC5qcGdcIik7XG4gIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XG4gIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7XG4gIGJhY2tncm91bmQtcG9zaXRpb24teDogcmlnaHQ7XG59Il19 */"
 
 /***/ }),
 
@@ -2489,7 +2489,7 @@ PortalHomeComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/* .side-menu-panel {\n  display: flex;\n  flex-direction: column;\n  margin: 5px;\n}\n\n.side-menu-title {\n  margin-left: 10px;\n  width: 280px;\n  height:60px;\n  line-height: 60px;\n  text-align: left;\n  color: #0060B9;\n  background-color: lightgrey;\n}\n\n.side-menu-item {\n  margin-left: 10px;\n  margin-bottom: 5px;\n}\n\n.menu-item-text {\n  color: #0060B9;\n  font-size: 19px;\n} */\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3FhLWFkbWluL0RvY3VtZW50cy9xYS1wb3J0YWwtZGVwbG95bWVudC9mcm9udGVuZC9xYS1wb3J0YWwtYW5ndWxhci9wcm9qZWN0cy9wb3J0YWwtY29yZS9zcmMvYXBwL3BvcnRhbC1zaWRlLW1lbnUvcG9ydGFsLXNpZGUtbWVudS1jb250ZW50L3BvcnRhbC1zaWRlLW1lbnUtY29udGVudC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O0dBQUEiLCJmaWxlIjoicHJvamVjdHMvcG9ydGFsLWNvcmUvc3JjL2FwcC9wb3J0YWwtc2lkZS1tZW51L3BvcnRhbC1zaWRlLW1lbnUtY29udGVudC9wb3J0YWwtc2lkZS1tZW51LWNvbnRlbnQuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvKiAuc2lkZS1tZW51LXBhbmVsIHtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgbWFyZ2luOiA1cHg7XG59XG5cbi5zaWRlLW1lbnUtdGl0bGUge1xuICBtYXJnaW4tbGVmdDogMTBweDtcbiAgd2lkdGg6IDI4MHB4O1xuICBoZWlnaHQ6NjBweDtcbiAgbGluZS1oZWlnaHQ6IDYwcHg7XG4gIHRleHQtYWxpZ246IGxlZnQ7XG4gIGNvbG9yOiAjMDA2MEI5O1xuICBiYWNrZ3JvdW5kLWNvbG9yOiBsaWdodGdyZXk7XG59XG5cbi5zaWRlLW1lbnUtaXRlbSB7XG4gIG1hcmdpbi1sZWZ0OiAxMHB4O1xuICBtYXJnaW4tYm90dG9tOiA1cHg7XG59XG5cbi5tZW51LWl0ZW0tdGV4dCB7XG4gIGNvbG9yOiAjMDA2MEI5O1xuICBmb250LXNpemU6IDE5cHg7XG59ICovXG4iXX0= */"
+module.exports = "/* .side-menu-panel {\n  display: flex;\n  flex-direction: column;\n  margin: 5px;\n}\n\n.side-menu-title {\n  margin-left: 10px;\n  width: 280px;\n  height:60px;\n  line-height: 60px;\n  text-align: left;\n  color: #0060B9;\n  background-color: lightgrey;\n}\n\n.side-menu-item {\n  margin-left: 10px;\n  margin-bottom: 5px;\n}\n\n.menu-item-text {\n  color: #0060B9;\n  font-size: 19px;\n} */\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3FhLWFkbWluL0RvY3VtZW50cy9xYS1wb3J0YWwtZGVwbG95bWVudC12Mi9xYS1wb3J0YWwtYW5ndWxhci9wcm9qZWN0cy9wb3J0YWwtY29yZS9zcmMvYXBwL3BvcnRhbC1zaWRlLW1lbnUvcG9ydGFsLXNpZGUtbWVudS1jb250ZW50L3BvcnRhbC1zaWRlLW1lbnUtY29udGVudC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O0dBQUEiLCJmaWxlIjoicHJvamVjdHMvcG9ydGFsLWNvcmUvc3JjL2FwcC9wb3J0YWwtc2lkZS1tZW51L3BvcnRhbC1zaWRlLW1lbnUtY29udGVudC9wb3J0YWwtc2lkZS1tZW51LWNvbnRlbnQuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvKiAuc2lkZS1tZW51LXBhbmVsIHtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgbWFyZ2luOiA1cHg7XG59XG5cbi5zaWRlLW1lbnUtdGl0bGUge1xuICBtYXJnaW4tbGVmdDogMTBweDtcbiAgd2lkdGg6IDI4MHB4O1xuICBoZWlnaHQ6NjBweDtcbiAgbGluZS1oZWlnaHQ6IDYwcHg7XG4gIHRleHQtYWxpZ246IGxlZnQ7XG4gIGNvbG9yOiAjMDA2MEI5O1xuICBiYWNrZ3JvdW5kLWNvbG9yOiBsaWdodGdyZXk7XG59XG5cbi5zaWRlLW1lbnUtaXRlbSB7XG4gIG1hcmdpbi1sZWZ0OiAxMHB4O1xuICBtYXJnaW4tYm90dG9tOiA1cHg7XG59XG5cbi5tZW51LWl0ZW0tdGV4dCB7XG4gIGNvbG9yOiAjMDA2MEI5O1xuICBmb250LXNpemU6IDE5cHg7XG59ICovXG4iXX0= */"
 
 /***/ }),
 
@@ -2787,7 +2787,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/qa-admin/Documents/qa-portal-deployment/frontend/qa-portal-angular/projects/portal-core/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /home/qa-admin/Documents/qa-portal-deployment-v2/qa-portal-angular/projects/portal-core/src/main.ts */"./src/main.ts");
 
 
 /***/ })
