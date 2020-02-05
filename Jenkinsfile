@@ -3,7 +3,7 @@ pipeline
 	agent any 
 	environment
 	{
-		ssh_ip = "playground2"
+		ssh_ip = "51.140.11.207" //playground2
 		number = "${env.BUILD_NUMBER}"
 	}
 
