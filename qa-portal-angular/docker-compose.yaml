@@ -2,6 +2,6 @@ version: "3.7"
 services:
   frontend:
     container_name: frontend
-    build: ./qa-portal-angular
+    build: .
     ports:
     - "80:80" 
