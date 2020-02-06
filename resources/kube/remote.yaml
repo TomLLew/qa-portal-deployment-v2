@@ -1,0 +1,30 @@
+apiVersion: v1
+kind: Pod
+metadata:
+ name: remote
+ labels:
+  app: remote
+spec:
+ securityContext: 
+  fsGroup: 0
+ containers:
+ - name: remote
+   securityContext: 
+    runAsUser: 0
+   image: dorowu/ubuntu-desktop-lxde-vnc
+   ports:
+   - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+ name: remote
+spec:
+ selector:
+  app: remote
+ ports: 
+ - protocol: TCP
+   port: 6080
+   targetPort: 80
+ type: LoadBalancer
+
