@@ -3,13 +3,13 @@ pipeline
 	agent any 
 	environment
 	{
-		ssh_ip = "51.140.11.207" //playground2
+		ssh_ip = "51.140.11.207" //master node
 		number = "${env.BUILD_NUMBER}"
 	}
 
 	stages 
 	{
-		stage("install_apt_packages")
+		stage("setup")
 		{
 			steps 
 			{
