@@ -1,0 +1,9 @@
+version: "3.3"
+services:
+ Keycloak:
+  container_name: keycloak
+  image: deama/keycloak:6.0.1
+  build:
+   context: ./keycloak/
+  ports:
+  - "8080:8080"

@@ -1,0 +1,40 @@
+apiVersion: apps/v1beta1
+kind: StatefulSet
+metadata:
+ name: keycloak
+ labels:
+  app: keycloak
+  role: service
+spec:
+ replicas: 1
+ selector: 
+  matchLabels:
+   app: keycloak
+   role: service
+ serviceName: keycloak
+ template: 
+  metadata:
+   labels:
+    app: keycloak
+    role: service
+  spec:
+   containers:
+   - name: keycloak
+     image: deama/keycloak:6.0.1
+     ports:
+     - containerPort: 8080
+       name: keycloak
+       protocol: TCP
+---
+apiVersion: v1
+kind: Service
+metadata:
+ name: keycloak
+spec:
+ ports:
+ - protocol: TCP
+   port: 8080
+   targetPort: 8080
+ selector:
+   app: keycloak
+ type: ClusterIP
